@@ -1,0 +1,5534 @@
+[
+  {
+    "uuid": "35b47e30-d3c5-79b7-dee4-146e6098f422",
+    "name": "minecraft:acacia_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "aeff4363-c442-2514-7baa-d45ada0e7f39",
+    "name": "minecraft:acacia_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b32a9783-1983-0350-4269-d920cbad8d45",
+    "name": "minecraft:acacia_fence_gate",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3a928308-c49c-20d6-2b76-9a236127c057",
+    "name": "minecraft:acacia_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "78c319d2-dcaf-6742-fffc-01a8e969a06a",
+    "name": "minecraft:acacia_trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "7a97f4f8-21f5-4e65-1e8f-69c1251cf9d9",
+    "name": "minecraft:activator_rail",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "7899b460-0037-98f0-6482-a8654e4c4e25",
+    "name": "minecraft:adventure_chest",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "15c72a46-73b0-520d-8e2c-be88863fd7e7",
+    "name": "minecraft:adventure_chest_common",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b58688dd-1993-5aff-d5fc-8c0ec72af9ec",
+    "name": "minecraft:adventure_chest_epic",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "1d9f2540-bbc2-7207-87a5-097b6c48ac0e",
+    "name": "minecraft:adventure_chest_legendary",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "legendary"
+  },
+  {
+    "uuid": "05ca3f49-3229-b432-e250-8dc7772d2b65",
+    "name": "minecraft:adventure_chest_rare",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "d645771c-0f6c-e2fa-a874-210d9b1c05d6",
+    "name": "minecraft:adventure_chest_uncommon",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "4f16a053-4929-263a-c91a-29663e29df76",
+    "name": "minecraft:adventure_crystal_common",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1d549957-68d0-730a-56f3-d33996738d84",
+    "name": "minecraft:adventure_crystal_epic",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "d4a33ef6-baf2-3e1c-eeb4-d382f61868bb",
+    "name": "minecraft:adventure_crystal_legendary",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "legendary"
+  },
+  {
+    "uuid": "b46ac8e2-6a31-5fb4-2217-cf9ff019d05c",
+    "name": "minecraft:adventure_crystal_oobe",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "oobe"
+  },
+  {
+    "uuid": "123dd088-ba76-71ce-b40c-2f05b948f303",
+    "name": "minecraft:adventure_crystal_rare",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "81a84b7e-928f-7157-254c-6543e90dbc59",
+    "name": "minecraft:adventure_crystal_uncommon",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "acb80f32-4e45-4f59-a203-c297e717f62f",
+    "name": "minecraft:adventurexp_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "15f4eedb-b14c-4aa0-8f54-4b3ecc8aa0d5",
+    "name": "minecraft:adventurexp_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "0452bd8f-353e-4aba-89fe-9b36ea97e7a1",
+    "name": "minecraft:adventurexp_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "35a5dfef-7f98-1b23-2661-713c9d4097df",
+    "name": "minecraft:air",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "62d03062-a0a8-6f9a-3826-a72d9ca683de",
+    "name": "minecraft:andesite_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "bd3db2c5-1dbd-8f99-9064-4547590523ef",
+    "name": "minecraft:apple",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "eea50131-e909-214f-d5d2-e8b83febe31a",
+    "name": "minecraft:arrow",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a1aaafc1-3fe0-118d-15f7-1edec233ce78",
+    "name": "minecraft:baked_potato",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "ba0c261d-3638-56f7-d9f7-bad3156b8a2c",
+    "name": "minecraft:bed",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "24900438-40b2-1f26-e6d0-2a09bc7b14ee",
+    "name": "minecraft:bed",
+    "aux": 1,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "9b9bfff3-af2e-3aff-235a-9f8bebd4b702",
+    "name": "minecraft:bed",
+    "aux": 2,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "d263af88-75f6-87e6-4b47-32a41738e235",
+    "name": "minecraft:bed",
+    "aux": 3,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "4c73f0d8-4a07-c76d-952d-a32e4bb2f9f0",
+    "name": "minecraft:bed",
+    "aux": 4,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "cecf0051-6e2e-562a-da11-9249e30bb7f1",
+    "name": "minecraft:bed",
+    "aux": 5,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3839fb66-3006-b9d2-aec7-068ff55f3540",
+    "name": "minecraft:bed",
+    "aux": 6,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0a2bd807-3234-ba29-6c34-d4dab3ad0bc0",
+    "name": "minecraft:bed",
+    "aux": 7,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "534ce11d-684f-65ba-b6ce-4b1e2d321c4b",
+    "name": "minecraft:bed",
+    "aux": 8,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "18490ee1-567e-9f8f-8641-d43a6ec44ba2",
+    "name": "minecraft:bed",
+    "aux": 9,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "872588d9-3983-5753-66ea-6b2caca16e25",
+    "name": "minecraft:bed",
+    "aux": 10,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "01dd5bff-add8-1bc9-f483-61331473fd27",
+    "name": "minecraft:bed",
+    "aux": 11,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "dfc3092d-5618-f9b2-6dd4-7825841dbb47",
+    "name": "minecraft:bed",
+    "aux": 12,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "9a9c0962-fc78-940a-ae6a-c0f5c53230ee",
+    "name": "minecraft:bed",
+    "aux": 13,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a129dd77-378f-dd63-41d5-ff238528663f",
+    "name": "minecraft:bed",
+    "aux": 14,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c7561484-0fba-6fd1-6af6-a253f015b9ba",
+    "name": "minecraft:bed",
+    "aux": 15,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "62b2d26d-f7e7-7d5e-7de5-f2aab4773ec0",
+    "name": "minecraft:bedrock",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f4b33e4e-48cb-1c9f-3974-ab380526a7a6",
+    "name": "minecraft:beef",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "64db15cc-5620-3b5e-22b3-11ceab6a776b",
+    "name": "minecraft:beetroot",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f67bacad-40aa-b7bc-0a53-629aed2b3ae0",
+    "name": "minecraft:beetroot_seeds",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9fca899c-6764-c9da-5e6b-47db6305aac9",
+    "name": "minecraft:beetroot_soup",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c3413beb-c446-ddaa-5ce6-5af57ffa1755",
+    "name": "minecraft:birch_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3f5cc89e-8f89-1440-d58f-2f6e05c054ac",
+    "name": "minecraft:birch_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8223c2af-4b77-18dd-c6d0-35a153b6bdf9",
+    "name": "minecraft:birch_fence_gate",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "41fabdc3-ee72-026d-6ab9-dbe3fcf34087",
+    "name": "minecraft:birch_pressure_plate",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c86a861d-50da-26a2-56cd-18f19abf63fc",
+    "name": "minecraft:birch_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "88c5cfc1-722b-bff3-55dc-c090b34bff71",
+    "name": "minecraft:birch_trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8130deac-949a-4016-f7f2-e5dad0df7018",
+    "name": "minecraft:black_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "86981f2f-0515-7a53-17e3-8daec5062489",
+    "name": "minecraft:blend_constraint",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ab5e5e1e-1b73-9ba0-0e6b-2d5051585e69",
+    "name": "minecraft:blue_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "16efd285-2ece-c1cf-9b31-632c8958e482",
+    "name": "minecraft:bone",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f998cbd3-433a-db65-8707-0a160bdd63ee",
+    "name": "minecraft:bone_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8c88d2c8-e0e0-5798-5d0b-b828c96fdf63",
+    "name": "minecraft:book",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f4303405-3ff8-690c-104f-e7c42fe35c9d",
+    "name": "minecraft:bookshelf",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8d5f13aa-e8e9-3d7c-f8b2-c920862419f6",
+    "name": "minecraft:border_constraint",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "84aaf925-dbe5-f122-9139-08098789e4f8",
+    "name": "minecraft:bow",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 384,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a2ff336f-5122-1736-c0d6-1556fe9d3e50",
+    "name": "minecraft:bowl",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "111637af-d42d-133c-cefe-184442d230ca",
+    "name": "minecraft:bread",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c14ba849-ef0b-6b26-cfeb-f6b7c6cc7d00",
+    "name": "minecraft:brick",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "55d8cf9b-27a2-b059-2697-6084be68304e",
+    "name": "minecraft:brick_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e618ed4b-aae7-4bc8-3688-729bbc4edcef",
+    "name": "minecraft:brick_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "595660a4-85b5-ac91-45be-ded273457fe4",
+    "name": "minecraft:brown_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "88ffe819-aefb-e080-5ef5-e04244a387e1",
+    "name": "minecraft:brown_mushroom",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a85a2dd3-daf0-3e6e-43b8-9130c1552012",
+    "name": "minecraft:brown_mushroom_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a2b7ffac-a3f0-a89a-f17a-1fd838a2d09d",
+    "name": "minecraft:brown_mushroom_block",
+    "aux": 10,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4ae16d7b-a038-e186-1dc0-0125fec68d93",
+    "name": "minecraft:brown_mushroom_block",
+    "aux": 15,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4bc79724-545b-4c45-3092-c25cca657d16",
+    "name": "minecraft:bubble_column",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "913156b3-c545-a8a1-8dec-0df0095af863",
+    "name": "minecraft:bucket",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "b9d5b6c6-afd0-82b1-74fd-0e3754633c81",
+    "name": "minecraft:bucket",
+    "aux": 1,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "ea7306fa-9dd0-897f-d1a8-2529521cd5f2",
+    "name": "minecraft:bucket",
+    "aux": 3,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "e422a666-3c82-389f-bbc4-119e8756d470",
+    "name": "minecraft:bucket",
+    "aux": 4,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "45088708-911f-6525-9f96-21d4cd6fb727",
+    "name": "minecraft:bucket",
+    "aux": 8,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "ea389d44-f530-3443-440c-d9c0bc89f53b",
+    "name": "minecraft:bucket",
+    "aux": 10,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "a26f1d8c-df36-6afd-bee6-bfa7642487fa",
+    "name": "minecraft:bucket",
+    "aux": 5000,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5e396bc3-febe-701e-c9da-80fa28036237",
+    "name": "minecraft:buttercup",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "051081b4-0e56-33c6-23db-1fab31aa7143",
+    "name": "minecraft:cactus",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1862859c-c4b4-2c3e-095d-9e10e7b3c406",
+    "name": "minecraft:cake",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "85f55023-664a-dbf3-82f6-5f768b96622b",
+    "name": "minecraft:carpet",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "34928e15-8771-2a56-8995-6b9232ffb45d",
+    "name": "minecraft:carpet",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "d677b1aa-046e-a8e5-83ee-a0cee67f2677",
+    "name": "minecraft:carpet",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "fa456e0a-b16f-11a1-2dac-b2262c45d05d",
+    "name": "minecraft:carpet",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0fba8fe3-5267-223b-522e-fbd1f0414655",
+    "name": "minecraft:carpet",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8ed55d57-26a7-96df-3fd0-0c3172ba4cb7",
+    "name": "minecraft:carpet",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "5ec450ac-aaff-ae6a-4438-bd72fd70cbb1",
+    "name": "minecraft:carpet",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0e834b3e-9392-c73e-1d6f-411ea8d34a73",
+    "name": "minecraft:carpet",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "7597aec9-2db4-78e7-e6f2-400ff5c40181",
+    "name": "minecraft:carpet",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "2d6f04f0-777e-4255-4178-127b19c4a4f0",
+    "name": "minecraft:carpet",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a3cbceb3-cbe9-54fb-00fc-b19bf9ddb166",
+    "name": "minecraft:carpet",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c67d9084-98aa-e213-c18b-7403bed8dcf2",
+    "name": "minecraft:carpet",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "349c6f28-772b-05a4-a981-01766609d178",
+    "name": "minecraft:carpet",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "90ae270b-1739-69b6-578c-8eeeb15c86e8",
+    "name": "minecraft:carpet",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c59e8a5b-ac42-db20-52cc-7d58923e713b",
+    "name": "minecraft:carpet",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "6f6c46f7-073e-9a06-0ea1-d0e2830d0a62",
+    "name": "minecraft:carpet",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c2fdbc1c-60ab-396c-22a8-d9a3df37555e",
+    "name": "minecraft:carrot",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c0769bb1-a9ce-01c8-1683-78fe13651dc2",
+    "name": "minecraft:carrots",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+    "name": "minecraft:carved_pumpkin",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "13062bb3-f148-7ede-deee-f3e550e8c8b2",
+    "name": "minecraft:cauldron",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "f8a5d11e-b7b9-5a87-4683-b0fedf18c779",
+    "name": "minecraft:chain_command_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a30a9a67-c6dd-3d58-5828-43bfda5e3ad3",
+    "name": "minecraft:chicken",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "538fb01a-61f7-9513-d991-a416641ae037",
+    "name": "minecraft:clay",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4165940c-458f-e81c-b694-9446460ef9f5",
+    "name": "minecraft:clay_ball",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d520eca3-a491-3cda-c51d-32e343371baf",
+    "name": "minecraft:clownfish",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d7ba8872-ed17-2591-a353-4705c77dfd4d",
+    "name": "minecraft:coal",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "ee36c362-6711-f648-980e-96cc891bec56",
+    "name": "minecraft:coal",
+    "aux": 1,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "00aaa165-3797-13f6-a8d1-6d5449316e15",
+    "name": "minecraft:coal_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "f99038c6-fa01-f99a-803e-45ff4c2bad53",
+    "name": "minecraft:coal_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "eead8c3f-638b-91fa-6e0a-f99f6906dd56",
+    "name": "minecraft:cobblestone",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f09d2d4d-b28c-dead-dc81-9f76c3897b5a",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "06ad9ae4-ae75-9e75-8dbc-e1c2af6aa289",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "4a50ab39-c1b7-b32c-2003-489cece392a9",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "93a999de-9ee5-28a1-49cd-3bbf40d817f0",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0b9f8e3b-3744-c616-92ed-6c1a931c6f03",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "77bf8f66-f8b9-f3c2-7fc6-bc8b0346ef3b",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "802762da-3170-af13-1f00-e1b6e55aa5cf",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "1000b581-ed6f-70a4-61b6-00312066ad46",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3d03f898-7570-65f1-ea6e-3263f684ddad",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "20564bb8-9463-dc71-6506-54728f0dde96",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c5dd0a7f-91e2-3052-9cbe-5f6afa91f4b7",
+    "name": "minecraft:cobblestone_wall",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "690b0867-9e56-2aa9-bac0-35ab258f2d86",
+    "name": "minecraft:cocoa",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "0ceb0a2d-e177-bab6-d4b9-88751e4e04aa",
+    "name": "minecraft:command_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "284c795b-f596-9272-a459-f5fb45613b29",
+    "name": "minecraft:comparator",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "acce89bd-2b16-4ca4-09be-5870f461488b",
+    "name": "minecraft:concrete",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "cb955e69-7dcc-0b90-b152-896f2f61033e",
+    "name": "minecraft:concrete",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "51ee06be-49fc-3b27-906e-f6ed963ac01a",
+    "name": "minecraft:concrete",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "4a1b7071-fca3-0656-b185-44f0e7aea3d9",
+    "name": "minecraft:concrete",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "18fa98d6-2617-9c39-8c63-f82d6d637f7e",
+    "name": "minecraft:concrete",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "be047946-7661-9cbc-47cc-ab960ad96e76",
+    "name": "minecraft:concrete",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "ad21ea05-19cb-9eb6-9d80-422ea662bb46",
+    "name": "minecraft:concrete",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e94e8de5-d5e8-280a-f6cf-b768a45a7aef",
+    "name": "minecraft:concrete",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a4cb803b-958c-5221-eb99-de2aa2684817",
+    "name": "minecraft:concrete",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a31146c3-8f70-7529-c848-12578148dfa1",
+    "name": "minecraft:concrete",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "943873b0-c2f0-9b2c-6353-a71dc803fcf0",
+    "name": "minecraft:concrete",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "15842ebc-0527-e624-3b95-f3ba01914c25",
+    "name": "minecraft:concrete",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "dc9f6f51-d0d2-02ef-ade6-1b8b6a8831c6",
+    "name": "minecraft:concrete",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "1c27c294-e800-0c6e-3759-bb11bc3a99eb",
+    "name": "minecraft:concrete",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3eb3a55c-65b3-a090-3fb9-3fe26a05f3a5",
+    "name": "minecraft:concrete",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f1abca17-8719-d8f5-3094-9773c820af3e",
+    "name": "minecraft:concrete",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b7a49e8d-0a23-5155-bcd7-b9aa91f9edb0",
+    "name": "minecraft:concrete_powder",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d1cd3ad5-8120-0459-f0ce-8d302737c246",
+    "name": "minecraft:concrete_powder",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "630ef166-4f55-4a80-98fe-d7d6580872ab",
+    "name": "minecraft:concrete_powder",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ed7a1dd1-9bac-f5b3-3c83-d4126fcd9947",
+    "name": "minecraft:concrete_powder",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "efa974a7-4426-ab7b-ac64-e54e17ba3316",
+    "name": "minecraft:concrete_powder",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "08a47382-9b17-0335-e000-bd944a43c5e2",
+    "name": "minecraft:concrete_powder",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b1eebbc3-4061-a062-cceb-25f98c015f1b",
+    "name": "minecraft:concrete_powder",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "462f5e1b-18d0-c5b1-1aff-e1abb2ac2885",
+    "name": "minecraft:concrete_powder",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "0343bf9b-f027-a692-299a-f8d204fb55cd",
+    "name": "minecraft:concrete_powder",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "996a853b-f473-befa-fcc0-e74fa362b3a7",
+    "name": "minecraft:concrete_powder",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "36bc293d-4305-dea0-2396-207fdbf0dcd8",
+    "name": "minecraft:concrete_powder",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "2aa782f3-e6c6-b1f4-336b-e098a8bfc736",
+    "name": "minecraft:concrete_powder",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "dedf353e-d722-162f-ea26-6d1a5478bd45",
+    "name": "minecraft:concrete_powder",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "caa7d569-4796-9e79-4a3e-df764a3ae008",
+    "name": "minecraft:concrete_powder",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f4278e45-b1d8-faa7-e247-c3bc54c83d4c",
+    "name": "minecraft:concrete_powder",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8ee13e37-9b80-083e-dce5-0ac3e4491143",
+    "name": "minecraft:concrete_powder",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "cd621b71-a549-6751-24a1-41d60618e759",
+    "name": "minecraft:cooked_beef",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "20dbd5fc-06b7-1aa1-5943-7ddaa2061e6a",
+    "name": "minecraft:cooked_chicken",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3a8a26e9-358e-acde-5154-651f4d13a1e5",
+    "name": "minecraft:cooked_fish",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c6692b8d-e595-591a-bd8a-0f468df3af07",
+    "name": "minecraft:cooked_porkchop",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b2972abc-bf65-8b19-aaa9-a67732e6923e",
+    "name": "minecraft:cooked_rabbit",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "36e0ec59-ab45-e654-c5e4-9bda569ea3b7",
+    "name": "minecraft:cooked_salmon",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "fd595ab4-a2c8-b278-caf7-91021fd32811",
+    "name": "minecraft:cookie",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "77103bc4-d7ba-4d1b-8e5e-16e6f61ef2f1",
+    "name": "minecraft:crafting_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bbc49cb2-7fc3-4a28-896c-53738333e9be",
+    "name": "minecraft:crafting_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d125871c-11d0-4868-8d0b-fe2d5bf5b0f8",
+    "name": "minecraft:crafting_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "cc92a51e-e8a0-b0b8-d81d-3dbc7f25a8e8",
+    "name": "minecraft:cyan_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "310675c9-bdec-f765-dfbe-b1c0abf2cae3",
+    "name": "minecraft:dark_oak_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c95df2a4-3ad4-4797-8af1-cf7fa0f492fc",
+    "name": "minecraft:dark_oak_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "76f0fa63-b21d-30ef-b1d6-bddb7f782931",
+    "name": "minecraft:dark_oak_fence_gate",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "807cdc50-9e28-bd97-7fe9-a6717bb57441",
+    "name": "minecraft:dark_oak_pressure_plate",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4683be1e-ffa7-1c79-63cf-b41b796e8996",
+    "name": "minecraft:dark_oak_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "f8b65fa9-61e6-e002-eb6e-8d9ddad156bb",
+    "name": "minecraft:dark_oak_trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "a5d006fa-1864-31b3-d223-a7fe1047402d",
+    "name": "minecraft:deadbush",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "5a4a89e3-ef12-4af9-bf1f-9058499827ed",
+    "name": "minecraft:defense_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "58fb6d35-f304-4930-acf8-73e789312d9a",
+    "name": "minecraft:defense_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bab05ee3-b06f-411b-a6a4-a112f9acf72f",
+    "name": "minecraft:defense_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c0e40829-fb2a-1fa3-4513-818bbfccac1a",
+    "name": "minecraft:detector_rail",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "408bb17b-da92-0cea-7496-ee01c6a542d7",
+    "name": "minecraft:diamond",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "ab316728-9922-430c-808b-ff3b6e3cd00a",
+    "name": "minecraft:diamond_axe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 3124,
+    "category": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "1eaa0d8c-2d89-2b84-aa1f-b75ccc85faff",
+    "name": "minecraft:diamond_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "legendary"
+  },
+  {
+    "uuid": "fb867518-05b7-497f-afbc-5b88a490469b",
+    "name": "minecraft:diamond_hoe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 3124,
+    "category": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "bda92a47-adde-2188-0c18-2f091958bf34",
+    "name": "minecraft:diamond_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "081a1c01-f504-40b4-b7d0-59d9f8c4d918",
+    "name": "minecraft:diamond_pickaxe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 6248,
+    "category": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "3f473106-d0c3-4f44-9db9-ace843e3a11a",
+    "name": "minecraft:diamond_shovel",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 3124,
+    "category": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "1eb4c044-716e-4a26-80f3-be2a7f30fe70",
+    "name": "minecraft:diamond_sword",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 3124,
+    "category": "equipment",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "d999e47f-b4f0-2ec8-2070-8de8d09b35c0",
+    "name": "minecraft:diorite_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+    "name": "minecraft:dirt",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "360fd82d-9faa-7481-23f3-b335f00e8309",
+    "name": "minecraft:dirt",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+    "name": "minecraft:double_plant",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bbc34ef7-a633-af59-9128-31415f411623",
+    "name": "minecraft:double_plant",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "dbde8418-ef1f-3ba4-22f1-0d7d8175cf8c",
+    "name": "minecraft:double_plant",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+    "name": "minecraft:double_plant",
+    "aux": 4,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c93556a1-95d6-1a27-fe8c-6625c4146d71",
+    "name": "minecraft:double_plant",
+    "aux": 5,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9e6346d0-a9bd-2099-c657-83912f5465dc",
+    "name": "minecraft:double_stone_slab",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "177874d7-1c3f-ebce-bc59-1d10078996b8",
+    "name": "minecraft:double_stone_slab2",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "4804696c-8532-ef40-be8a-cc0d723db893",
+    "name": "minecraft:double_stone_slab3",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "fcfc23e7-69e4-320e-681e-4573d954e226",
+    "name": "minecraft:double_stone_slab4",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a285cd5b-e21f-c719-0ff8-6807d5dd3010",
+    "name": "minecraft:double_wooden_slab",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3699cce0-ab7c-a221-36fe-a03548432c35",
+    "name": "minecraft:dye",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f40808ae-1185-aed4-45e9-bd04756c1d0a",
+    "name": "minecraft:dye",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "720c1ed0-00aa-a2fa-6517-a0dfb544e83a",
+    "name": "minecraft:dye",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bbba2027-8d33-bcce-535c-79ea94c22cee",
+    "name": "minecraft:dye",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ae6efe59-cc9c-61c0-0ac3-25c93a11138e",
+    "name": "minecraft:dye",
+    "aux": 4,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "b94a62e0-31c8-9a44-3fae-0cb82107a426",
+    "name": "minecraft:dye",
+    "aux": 5,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "11a7f52b-4e06-8067-25ae-dde1ef6d0c21",
+    "name": "minecraft:dye",
+    "aux": 6,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8f39831b-00eb-5269-a440-1a805e7ead08",
+    "name": "minecraft:dye",
+    "aux": 7,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "5a9bf5b5-c3ba-1745-3f49-df08d979a970",
+    "name": "minecraft:dye",
+    "aux": 8,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "83bd13ef-407d-278a-90d5-f09b433443b2",
+    "name": "minecraft:dye",
+    "aux": 9,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bf4542ca-e6b6-3a90-6708-4bac87f94cae",
+    "name": "minecraft:dye",
+    "aux": 10,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6746b7c5-2934-0212-82c5-f60371b377c8",
+    "name": "minecraft:dye",
+    "aux": 11,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "cba1a25e-888c-1222-3ca5-c5940b4fa43a",
+    "name": "minecraft:dye",
+    "aux": 12,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9bcccb15-603d-8627-c89c-2ebc6bf17a3f",
+    "name": "minecraft:dye",
+    "aux": 13,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "18d68e3f-15ba-97cd-ec35-d93fe300bf22",
+    "name": "minecraft:dye",
+    "aux": 14,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ba92ca3d-6afb-f37c-a71f-b85f0c5b9c24",
+    "name": "minecraft:dye",
+    "aux": 15,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bec40cfb-c78c-abf2-df41-712d44acf4dc",
+    "name": "minecraft:dye",
+    "aux": 16,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bc318f44-1cb4-3222-eedc-927d003261b9",
+    "name": "minecraft:dye",
+    "aux": 17,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9ee4817e-bf52-edfa-3d37-db1dbfbc517c",
+    "name": "minecraft:dye",
+    "aux": 18,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "107114ae-bd76-a88c-5c32-9494486b9de9",
+    "name": "minecraft:dye",
+    "aux": 19,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "75a749d3-f6a0-4f54-a785-9099403ea7e9",
+    "name": "minecraft:eating_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "db46340f-4e48-47b4-86ab-b97273affa04",
+    "name": "minecraft:eating_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1808716a-949a-429e-a138-643e20532f87",
+    "name": "minecraft:eating_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "01eb6e48-c264-8670-e4fe-eb3d84b38083",
+    "name": "minecraft:egg",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "dedf28a7-278d-2c32-99ac-d313aae25a45",
+    "name": "minecraft:fancy_feather",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c43807f2-f50e-f409-957d-ff580661c745",
+    "name": "minecraft:farmland",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "d78d2bdc-766f-e977-f0fb-15edc49d01e9",
+    "name": "minecraft:feather",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b191cecc-29be-931f-bd8a-244eeffcc5a0",
+    "name": "minecraft:fence",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bff279b6-4aa6-dd42-1d46-981bfdc68481",
+    "name": "minecraft:fence",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "2c74b35f-d4b2-bc33-27be-4d148405966b",
+    "name": "minecraft:fence",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "7b950caa-83bb-fbb1-3d6c-8ca19b5cec95",
+    "name": "minecraft:fence",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "cb046087-016c-f306-a567-06d7756433e4",
+    "name": "minecraft:fence",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a5fa94c9-0796-de33-ae1a-91d9e2bd88a4",
+    "name": "minecraft:fence",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "29d15352-7a57-2c12-1885-3a783649737e",
+    "name": "minecraft:fence_gate",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "fd754516-1997-8a07-cc0a-41a1667e7cc2",
+    "name": "minecraft:fermented_spider_eye",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "932038f6-7348-bf01-fc75-4d88e3024812",
+    "name": "minecraft:fire",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c14fc209-f280-bccc-bb4a-6c2a3fc71abc",
+    "name": "minecraft:fish",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a5a48e3f-4df6-5100-aa95-e81b3273ecd2",
+    "name": "minecraft:flint",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "290f92ba-1541-8bd2-97dd-eb7f233031b8",
+    "name": "minecraft:flint_and_steel",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 64,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "79e9e7fd-6c7b-4202-57dc-3d2319dfafd5",
+    "name": "minecraft:flower_pink_daisy",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "dc7d81d0-0ca0-8d0e-818d-4f4d0d72a971",
+    "name": "minecraft:flower_pot",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "11d65db9-e365-121c-4fc2-9f558d5a6e54",
+    "name": "minecraft:flowing_lava",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c7ba493b-7eee-d41a-67f2-1910cf19713a",
+    "name": "minecraft:flowing_mud",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6f2f0097-dbcc-9d66-1247-803df8053495",
+    "name": "minecraft:flowing_water",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f115ac00-27e2-a427-0f22-a3663d93034b",
+    "name": "minecraft:frame",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "971df7ad-033d-f849-0600-8872bd8e4d2e",
+    "name": "minecraft:genoa_cake_item",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "527a2c40-7a49-221a-a136-37968becb2f1",
+    "name": "minecraft:glass",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3096d57f-28a8-59de-53d1-c61a769e80db",
+    "name": "minecraft:glass_pane",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a1c6f586-c60c-929c-276d-bf24f0e174d1",
+    "name": "minecraft:glowstone",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "18f14347-4294-ec5a-9d47-62b8791084ac",
+    "name": "minecraft:glowstone_dust",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "198e4b14-f7e1-1f8a-2a8d-9055d5a7697d",
+    "name": "minecraft:gold_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "1c548de0-92d4-3ba2-84d1-fc2671d388cb",
+    "name": "minecraft:gold_ingot",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "6194f06e-2462-25e0-0710-f1f39d7e1680",
+    "name": "minecraft:gold_nugget",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "b1160704-52a1-6c7e-d0f1-deb06359ce1a",
+    "name": "minecraft:gold_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5383ea79-1e8e-7809-a612-67157b86830c",
+    "name": "minecraft:golden_apple",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "1d4db1f9-f350-44ad-b19c-87fd57ac4ae1",
+    "name": "minecraft:golden_axe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 132,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "9daf4912-7cd2-172d-6d1b-aa4bd3fc8319",
+    "name": "minecraft:golden_carrot",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4754dd83-4a0b-41d5-aaa5-8be886d93629",
+    "name": "minecraft:golden_hoe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 132,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "0d494b76-58cd-4744-aa3e-affe0e4ebb87",
+    "name": "minecraft:golden_pickaxe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 132,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "250b2d5d-685e-c75e-e2f3-6b922ce318d0",
+    "name": "minecraft:golden_rail",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "837f079f-1257-486a-9ef1-b910da677981",
+    "name": "minecraft:golden_shovel",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 132,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "f274c113-0017-4eb7-bf29-fceb6373a2d3",
+    "name": "minecraft:golden_sword",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 132,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "6ceb4516-d4a2-6337-4587-ee60885cf112",
+    "name": "minecraft:granite_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "39529999-1856-ea49-6942-aabe9e6a8fdb",
+    "name": "minecraft:grass",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d66adbaa-b7b9-1dce-beae-b432c8325424",
+    "name": "minecraft:grass_path",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+    "name": "minecraft:gravel",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f00bc1de-33b7-9420-6638-8c6753f71643",
+    "name": "minecraft:gray_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "706e6a56-816f-5b91-d7f9-efbf17455cb9",
+    "name": "minecraft:green_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "fabec585-3c93-49c4-0ec5-4184cb24cbc7",
+    "name": "minecraft:gunpowder",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "79c98155-b1d5-13e0-ac5d-a8c3c9a48d83",
+    "name": "minecraft:hardened_clay",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "01185eb1-74b1-afc9-8840-eaf22d4b3863",
+    "name": "minecraft:hay_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "bef8b1c2-54c6-4f69-a6c9-f1aa1ee18119",
+    "name": "minecraft:hoarding_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d9bbd707-8a7a-4edb-a85c-f8ec0c78a1f9",
+    "name": "minecraft:hoarding_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e46a2a7b-02fc-4d7c-8ed6-b9c5de192ef9",
+    "name": "minecraft:hoarding_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "127aa17d-3087-564d-718f-568b4a695e30",
+    "name": "minecraft:horn",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "135f3b43-2404-31ba-e51a-d8f14eb76d1e",
+    "name": "minecraft:ice",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "867bf0b7-e594-5aa7-4d8b-94f5bf8d598b",
+    "name": "minecraft:invisibleBedrock",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8f858388-c369-ccd2-4799-3a2b468c43f9",
+    "name": "minecraft:invisible_constraint",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "75875fbb-9615-41da-9a04-5a1d290513b5",
+    "name": "minecraft:iron_axe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 1004,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "8280c3ca-d2c0-17fd-6a67-bae9edde2aee",
+    "name": "minecraft:iron_bars",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "19177297-160a-0b9d-4b51-5ff0d927e44e",
+    "name": "minecraft:iron_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "0848f115-99c3-7d96-6eed-8021ab6bb3ce",
+    "name": "minecraft:iron_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "adbdd36c-4e8c-43b9-99c5-be17c1a56761",
+    "name": "minecraft:iron_hoe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 1004,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "8765f3ca-41b4-455e-a8b6-81358e250ee1",
+    "name": "minecraft:iron_ingot",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "67223b6d-9de0-f2a5-25ab-1be09c7ef7ef",
+    "name": "minecraft:iron_nugget",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "efea9c90-e554-3f2a-4d0e-bfd754d899f9",
+    "name": "minecraft:iron_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "6ced55c4-601a-43a7-a7db-cc5cc354d406",
+    "name": "minecraft:iron_pickaxe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 2008,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "7c116cfd-5d87-4d1f-b27c-25b6e1399033",
+    "name": "minecraft:iron_shovel",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 1004,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "fb0cc5c4-f6a9-4f60-a37f-be521d1bcafc",
+    "name": "minecraft:iron_sword",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 1004,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "11eabf20-2c6c-331d-b85d-92bf9f9e0e76",
+    "name": "minecraft:iron_trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5d788e04-8c5e-495f-81d1-69caa4001dbc",
+    "name": "minecraft:itemxp_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "87d0851b-c7f3-4df0-b214-6280ecf788f6",
+    "name": "minecraft:itemxp_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "93268ee9-699a-48e9-9bf5-06e9e7a34646",
+    "name": "minecraft:itemxp_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "75327014-d85f-6669-782c-de46878bcdf5",
+    "name": "minecraft:jungle_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "e3a8362b-cd36-31fb-3c67-87b8cf0232b8",
+    "name": "minecraft:jungle_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5fb72674-9bce-865a-b571-aa4405e03902",
+    "name": "minecraft:jungle_fence_gate",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "3fbfb008-0beb-20f2-1274-cab3ac6e36c7",
+    "name": "minecraft:jungle_pressure_plate",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5292dd4e-70be-658f-1535-a496be707ffb",
+    "name": "minecraft:jungle_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "07315cb3-a3dd-9717-7cc5-74b802e81671",
+    "name": "minecraft:jungle_trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "7864f33c-abfe-4eb2-2f06-035de2db853e",
+    "name": "minecraft:ladder",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "2f493be1-b5d5-547a-b991-cf30a9f1e99a",
+    "name": "minecraft:lapis_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "968353d6-ad78-afaa-e91f-ea01fe837d03",
+    "name": "minecraft:lapis_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "f83c44b7-80e3-e4ce-d588-ee5ce2aff42e",
+    "name": "minecraft:lava",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "47c645fc-9d82-687b-66c4-2e49ee9af11d",
+    "name": "minecraft:lava_cauldron",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c1b685da-0e59-9877-0834-dddf39c46a26",
+    "name": "minecraft:leather",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c2d1ad59-c34c-28c7-6c7f-656fa722a926",
+    "name": "minecraft:leaves",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f131a017-3bae-e0b1-acfc-c4445ac67e23",
+    "name": "minecraft:leaves",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a4783b9c-8352-d57b-bb25-1a30d0216aae",
+    "name": "minecraft:leaves",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "750da0d7-2948-8a25-4ce8-24965d56b96f",
+    "name": "minecraft:leaves",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c6f24530-3cf7-e4ec-98e1-93d03b31f577",
+    "name": "minecraft:leaves2",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "338414eb-f4d4-4a23-1583-d0bf34de9782",
+    "name": "minecraft:leaves2",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "7ce55883-65c3-faa7-cbb8-9f2d872146a7",
+    "name": "minecraft:lever",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "32932f8e-56cb-9a0d-8c52-6c91b254068a",
+    "name": "minecraft:light_blue_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "b6c38658-3dd1-5e14-1ffd-956c4bb4348b",
+    "name": "minecraft:lime_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "73956a98-f8ad-f9ab-5f5d-235357994127",
+    "name": "minecraft:lit_pumpkin",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "2d22fa5c-5350-afa8-710d-815a8efb3c5d",
+    "name": "minecraft:lit_redstone_lamp",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "c3313b7e-c71e-35ec-8648-7a191f9e0de7",
+    "name": "minecraft:lit_redstone_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068",
+    "name": "minecraft:log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9efdd49a-5bda-1191-34eb-747cf02406c0",
+    "name": "minecraft:log",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "fb9b0570-4918-76ab-4052-792af8f611d4",
+    "name": "minecraft:log",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bd180e14-28f9-c3b9-ea5c-66a44949b29a",
+    "name": "minecraft:log",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "7280762e-1051-f81e-18e9-1054b6216fd3",
+    "name": "minecraft:log2",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0a5b19d6-4a96-fbdd-d742-d4876b435fa6",
+    "name": "minecraft:log2",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "aa27137d-eb9f-473b-290e-2b8467add1c4",
+    "name": "minecraft:magenta_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "0014bea1-1588-fed5-16e1-9ae3a6983e5c",
+    "name": "minecraft:magma_cream",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "29d26deb-3f14-410f-af59-a492a21406bb",
+    "name": "minecraft:maxplayerhealth_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b35077e7-8772-45a8-a813-b5f750df9588",
+    "name": "minecraft:maxplayerhealth_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6f983514-9c7a-46ad-982f-6dfd4a835b80",
+    "name": "minecraft:maxplayerhealth_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d4ac4a79-b2dc-502f-47e2-98e2b2adc74d",
+    "name": "minecraft:melon",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "92f8074b-2a00-dc7a-6ffb-bc37b19b432a",
+    "name": "minecraft:melon_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "21959c50-9406-299c-f8ad-5300052eb31b",
+    "name": "minecraft:melon_seeds",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4a7d59a1-db96-e5b2-0986-f8bce9073123",
+    "name": "minecraft:melon_stem",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "06b9a70e-2456-10e9-f241-22f31a9f43e1",
+    "name": "minecraft:minecart",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "1b527574-8260-42f4-bd34-49d2cad6b91f",
+    "name": "minecraft:miningspeed_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6e0d14d1-d406-4040-8582-3ec3d160079f",
+    "name": "minecraft:miningspeed_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "661accb9-386a-452d-9ada-669fc20a1ef9",
+    "name": "minecraft:miningspeed_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e1535d2d-1d8a-d8dd-ed69-bb656206057c",
+    "name": "minecraft:mob_spawner",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "be0d2030-1120-d956-ad30-f300e9ce7728",
+    "name": "minecraft:mossy_cobblestone",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e6a9915d-5c78-78e3-86cb-664d70888ab4",
+    "name": "minecraft:mossy_cobblestone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "6c58670c-c0ec-1eb6-bd95-197a7f645c64",
+    "name": "minecraft:mossy_stone_brick_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "6c882b13-0cce-1ccd-d956-728675a17ef7",
+    "name": "minecraft:movingblock",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "5fcdaf08-a625-067e-957d-85ce40a478cd",
+    "name": "minecraft:mud",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "2ed364f5-eac5-fc2e-4e0b-a4582ae85d09",
+    "name": "minecraft:mushroom_stew",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "04b60854-7133-be6c-caeb-3ab7919b8a62",
+    "name": "minecraft:muttoncooked",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "55b6f722-3c81-4c0b-3d0d-be68fd8dbd4e",
+    "name": "minecraft:muttonraw",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "7e824450-291f-9a61-5596-6b0b3b938162",
+    "name": "minecraft:mycelium",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "7ff04f07-1b58-1e3c-5f78-5b8e251e4293",
+    "name": "minecraft:netherbrick",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "74fd51d4-ff6d-c2b7-b3d0-1a24c87b6de1",
+    "name": "minecraft:normal_stone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "bfa1ceb6-2ec2-24b0-f664-2b34bdf923bb",
+    "name": "minecraft:noteblock",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c1f26b54-0ba4-ad64-a263-69d03d043f59",
+    "name": "minecraft:oak_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "7411f28b-5ea9-ce1e-46d4-e1f31ec4b0fe",
+    "name": "minecraft:orange_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "390a4efa-6409-53dd-a613-093cb1f5ed92",
+    "name": "minecraft:packed_ice",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "98d448b8-4f4c-7470-db01-e5f8b1e065e5",
+    "name": "minecraft:paper",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "96c15281-3347-1b4e-b464-4613d4047bba",
+    "name": "minecraft:pink_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "9a95f0ef-3009-5c99-c1ee-d9dae9320f9e",
+    "name": "minecraft:piston",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "51d2edb2-00ee-f2d9-e64c-f9ecf3508935",
+    "name": "minecraft:pistonArmCollision",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "legendary"
+  },
+  {
+    "uuid": "f6d0fc06-4f55-5503-3c29-7471bc113c4d",
+    "name": "minecraft:pistonArmCollisionSticky",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "legendary"
+  },
+  {
+    "uuid": "ab844b9a-055f-55c2-a708-40245a6d81cb",
+    "name": "minecraft:planks",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "cd69e613-bdc7-3451-6c72-4f539e42a236",
+    "name": "minecraft:planks",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8d9b5797-3c36-3219-b1e2-55343d111097",
+    "name": "minecraft:planks",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c7dc9e6e-f7c6-93f7-b60d-9c65129138c8",
+    "name": "minecraft:planks",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "b1bae897-bbe3-226e-b28f-6f94fcbda4db",
+    "name": "minecraft:planks",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "912d22ac-d74f-1e68-2c66-93eaa4156696",
+    "name": "minecraft:planks",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "b13ff23c-7c39-c14e-c04f-61f43fe55570",
+    "name": "minecraft:polished_andesite_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "09d5e6ff-3d69-d7b9-d74b-6ca796881c74",
+    "name": "minecraft:polished_diorite_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "12c4d89a-1d8f-664e-3918-4331a63a39ec",
+    "name": "minecraft:polished_granite_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4790d989-80ae-e654-e0b3-05081cf6e026",
+    "name": "minecraft:porkchop",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "04eafeb1-0eff-f85e-9ac9-ea6c69024035",
+    "name": "minecraft:potato",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "393a7d8e-4280-c715-7732-99a90416d55c",
+    "name": "minecraft:potatoes",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "54e59451-b1a3-ea38-cfe6-94e88010699b",
+    "name": "minecraft:powered_comparator",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "b7e4792e-5018-5da4-f360-19bead83c462",
+    "name": "minecraft:powered_repeater",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "2aa3d77b-9dc8-2879-a8f5-b7d9f5c40a65",
+    "name": "minecraft:pumpkin",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3c524e6b-7510-8c5d-5b1d-4c3d3a6a5eb2",
+    "name": "minecraft:pumpkin_pie",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+    "name": "minecraft:pumpkin_seeds",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "917a6fc6-b453-63d9-263d-38910ff35f9b",
+    "name": "minecraft:pumpkin_stem",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "6116b348-0b54-d20f-ac3a-09d285ea5dc5",
+    "name": "minecraft:purple_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "bc7973d3-488f-54a0-3f59-93285b2fda7f",
+    "name": "minecraft:quartz",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "d1ab71d9-c3ed-cece-d913-1477f59b36d2",
+    "name": "minecraft:quartz_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "07e88c0d-1bc5-dc66-9121-8be6f437ec30",
+    "name": "minecraft:quartz_block",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "d2c78ab3-e0bc-7e8c-c0ec-dc478ba559e4",
+    "name": "minecraft:quartz_block",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "7d5dd2a0-c2ba-d663-de2f-14843c88b383",
+    "name": "minecraft:quartz_block",
+    "aux": 3,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "919b4dc3-a421-f83d-b1c2-e0d405b9493f",
+    "name": "minecraft:quartz_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "76e41f1b-afa5-7e1f-0540-ade5a819b018",
+    "name": "minecraft:rabbit",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3e92e705-e6ae-b943-a4a0-7782469561a6",
+    "name": "minecraft:rabbit_foot",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a2eaa328-f95e-52f9-b34b-45117d5ee6d0",
+    "name": "minecraft:rabbit_hide",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1d5d04e0-b25d-1580-8992-dec134838d71",
+    "name": "minecraft:rabbit_stew",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "70662cf2-a783-3728-1778-5ccd4187d413",
+    "name": "minecraft:rail",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "47ebf127-240d-bcb3-d5cb-efaabab4441b",
+    "name": "minecraft:rainbow_bed",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "d6936841-d8d4-dc29-23cc-4c045371778c",
+    "name": "minecraft:rainbow_carpet",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "ba80858b-9aa5-09db-10df-8341d4099487",
+    "name": "minecraft:rainbow_wool",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+    "name": "minecraft:red_flower",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+    "name": "minecraft:red_flower",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6",
+    "name": "minecraft:red_flower",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b",
+    "name": "minecraft:red_flower",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+    "name": "minecraft:red_flower",
+    "aux": 4,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6c5210db-3c17-6731-5abe-1853bced8b3b",
+    "name": "minecraft:red_flower",
+    "aux": 5,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b055e527-98c9-cb6d-8ee6-08d851948cef",
+    "name": "minecraft:red_flower",
+    "aux": 6,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "400d2c38-b129-ef8d-8983-2579040fd855",
+    "name": "minecraft:red_flower",
+    "aux": 7,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+    "name": "minecraft:red_flower",
+    "aux": 8,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e239bcbb-2f6f-0561-47fb-21c447fc6e80",
+    "name": "minecraft:red_flower",
+    "aux": 9,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+    "name": "minecraft:red_flower",
+    "aux": 10,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e6e669cd-4fb6-dd0f-8eee-1644b53c3eaf",
+    "name": "minecraft:red_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+    "name": "minecraft:red_mushroom",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "89df7a46-b166-fd7f-8483-090523c2c3fa",
+    "name": "minecraft:red_mushroom_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "729ef929-ba69-d65c-e4a4-6d3f4dca100d",
+    "name": "minecraft:red_mushroom_block",
+    "aux": 14,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "d3165763-3ea0-7817-3370-049ba0cc545a",
+    "name": "minecraft:red_sandstone",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "49fc1bb5-a8d1-5b13-4a0f-c0fbd502e6d0",
+    "name": "minecraft:red_sandstone",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "edf69136-78e7-94d0-3381-73149caceefe",
+    "name": "minecraft:red_sandstone",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e2649e63-4327-f5b5-82a5-e065a8bef601",
+    "name": "minecraft:red_sandstone",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e590f86c-87a9-2e4a-9401-53f734c513e4",
+    "name": "minecraft:red_sandstone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "45a12ea7-aee9-e377-3d1e-f7fb27c8cbcc",
+    "name": "minecraft:redstone",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "42431c81-8c9e-87c5-6a3d-47344931df53",
+    "name": "minecraft:redstone_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "613f036b-44d1-3107-8d47-de63bb796f8b",
+    "name": "minecraft:redstone_lamp",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "48f04aef-9c2c-e21d-e445-a2dac470db8f",
+    "name": "minecraft:redstone_ore",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "8fe42e43-3af9-5d9e-941e-0b5d4d6b0741",
+    "name": "minecraft:redstone_torch",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "d448815f-27b9-8055-d6e7-cf034d6ae060",
+    "name": "minecraft:redstone_wire",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c290939b-a19f-c3c6-d310-b34fee81bd56",
+    "name": "minecraft:reeds",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "db79d00e-4d38-645e-a015-5da494b50156",
+    "name": "minecraft:repeater",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "1ea12c57-f200-a78e-25da-ee35da0461a5",
+    "name": "minecraft:repeating_command_block",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "50539b69-3d2e-40c8-bef1-490d3286b9db",
+    "name": "minecraft:retention_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "7768e3de-aea7-4171-8fdd-2b69cce45ee6",
+    "name": "minecraft:retention_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "97039510-767c-43a9-8a15-b1034d8011d4",
+    "name": "minecraft:retention_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4cc1bab0-5584-7b47-a534-4422a5f571b3",
+    "name": "minecraft:rotten_flesh",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9b925673-d56d-435f-4728-0790727b33d3",
+    "name": "minecraft:salmon",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "5b81110c-1152-d4d4-a7c6-849fe93795d8",
+    "name": "minecraft:sand",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "37fd2847-31d3-37f4-2bbc-d29752ef5405",
+    "name": "minecraft:sand",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9232119c-c87c-6aa1-507d-5c71b84d5231",
+    "name": "minecraft:sandstone",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "02b3f8c9-3dcb-dafd-6bdf-2817562805a3",
+    "name": "minecraft:sandstone",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "52ec4242-1632-9597-0592-304942927f60",
+    "name": "minecraft:sandstone",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "7cbf2e64-0dd7-2151-13e3-e22d0123fe29",
+    "name": "minecraft:sandstone",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "21302513-a8dc-6e94-482e-0163d29b4613",
+    "name": "minecraft:sandstone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8e15a09c-0eb3-a84d-781e-b9b14ab71f9e",
+    "name": "minecraft:sapling",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c0284797-233c-64c5-13b5-b821922ae84a",
+    "name": "minecraft:sapling",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "09e4c882-2cfa-0c0f-9662-e02b381be6e7",
+    "name": "minecraft:sapling",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+    "name": "minecraft:sapling",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "00bfd028-2e17-a777-19bf-e17fdf216c53",
+    "name": "minecraft:sapling",
+    "aux": 4,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8864e97c-36a6-b66b-63c6-5b247cdd1aaa",
+    "name": "minecraft:sapling",
+    "aux": 5,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "0dcb11b1-f725-7a04-f77a-eb2fef0c7e12",
+    "name": "minecraft:seagrass",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d08fb88b-e670-2a8d-3b83-8edb363e7ba4",
+    "name": "minecraft:shears",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 64,
+    "category": "equipment",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c0589660-aa65-740c-f0c9-08349929460a",
+    "name": "minecraft:silver_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "b584305e-7ff3-54b9-af7d-7e9c07c890d1",
+    "name": "minecraft:slime",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c3a5c83b-9c0f-275a-b101-bc0ae6d32e1e",
+    "name": "minecraft:slime_ball",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b0633e20-bc3c-4b5f-a0e4-b5b3b20eb38e",
+    "name": "minecraft:smelting_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "cc576bfd-8ad5-4ae2-a05b-75e9a1805593",
+    "name": "minecraft:smelting_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "0dc51b5f-945b-4c24-b0e0-cc3b13a7361a",
+    "name": "minecraft:smelting_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "39783c34-50e7-69bc-56fe-6721e5320379",
+    "name": "minecraft:smooth_quartz_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "be35be3c-4947-8f6f-6dbf-f9737c2d6627",
+    "name": "minecraft:smooth_red_sandstone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "9c79f0b2-2061-4c28-fbec-205cae5c3098",
+    "name": "minecraft:smooth_sandstone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f2026026-5031-da4a-ace7-dd87d1e0dbb2",
+    "name": "minecraft:smooth_stone",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a3be4f81-d501-ba71-a343-925a8106316e",
+    "name": "minecraft:snow",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "74b80b10-4980-b079-5b4f-5f5051477cce",
+    "name": "minecraft:snow_layer",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4aacd62f-ebb0-adb9-82ef-a9606efd1b6e",
+    "name": "minecraft:snowball",
+    "aux": 0,
+    "stackable": true,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bc372a72-d2d7-0bb8-12d0-8dea6635b6e4",
+    "name": "minecraft:spawn_egg",
+    "aux": 10,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f71be100-71b0-73c4-3b2c-1220cdc35eb6",
+    "name": "minecraft:spawn_egg",
+    "aux": 11,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "99daba35-8d70-2281-01ab-bf5471c6f877",
+    "name": "minecraft:spawn_egg",
+    "aux": 12,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "805028aa-c421-2db9-c07b-0ac3592bed4e",
+    "name": "minecraft:spawn_egg",
+    "aux": 13,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "360c9e9e-dfe1-669c-e091-6f547e18b623",
+    "name": "minecraft:spawn_egg",
+    "aux": 17,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bae634b3-6b3d-4ca0-8e1e-f223b6760727",
+    "name": "minecraft:spawn_egg",
+    "aux": 18,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "94e9ca6f-a912-4ec1-7c59-42c1aee7eaba",
+    "name": "minecraft:spawn_egg",
+    "aux": 22,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ff723264-b108-9d24-f445-73a3322fc72e",
+    "name": "minecraft:spawn_egg",
+    "aux": 28,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c44c331a-962f-19df-16a5-ff4bcc03722d",
+    "name": "minecraft:spawn_egg",
+    "aux": 30,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6f5ef528-c271-e8cf-28df-8ac0654aed47",
+    "name": "minecraft:spawn_egg",
+    "aux": 32,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b168485f-dd72-4c6a-af04-46858c42d8a1",
+    "name": "minecraft:spawn_egg",
+    "aux": 33,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "07d29b57-cba3-71de-5a3f-3ea5752fdb6e",
+    "name": "minecraft:spawn_egg",
+    "aux": 34,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "81afb63a-be28-0e12-47d0-e2eba32e1365",
+    "name": "minecraft:spawn_egg",
+    "aux": 35,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3",
+    "name": "minecraft:spawn_egg",
+    "aux": 37,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "7432ca39-127c-f354-7455-f3b3cc11b355",
+    "name": "minecraft:spawn_egg",
+    "aux": 45,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ea21de22-c9fc-4983-ec42-bf6cb391a03e",
+    "name": "minecraft:spawn_egg",
+    "aux": 109,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "06349b07-6f13-f252-1415-2b7cdaa74d4b",
+    "name": "minecraft:spawn_egg",
+    "aux": 111,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "038c8034-1d98-96ca-8278-bc69f592549f",
+    "name": "minecraft:spawn_egg",
+    "aux": 250,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "f842128f-0d24-142e-9326-fd15399d71a4",
+    "name": "minecraft:spawn_egg",
+    "aux": 5000,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "6a105892-0863-3dcf-7482-7c7720597caa",
+    "name": "minecraft:spawn_egg",
+    "aux": 5001,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "426a7914-f259-12f6-e2fa-cca7d6759915",
+    "name": "minecraft:spawn_egg",
+    "aux": 5002,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "86d00291-74cf-d564-f4a6-a9f1d6b19713",
+    "name": "minecraft:spawn_egg",
+    "aux": 5003,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "e5853d38-a541-353e-bfd9-75c64e67af09",
+    "name": "minecraft:spawn_egg",
+    "aux": 5004,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "214103ec-f98b-4d7a-3dea-a69b696cefc2",
+    "name": "minecraft:spawn_egg",
+    "aux": 5005,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "85a279d4-d403-4487-d96d-17a91604e638",
+    "name": "minecraft:spawn_egg",
+    "aux": 5006,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "52692846-f1bd-a9ee-554a-913f9cb1dc27",
+    "name": "minecraft:spawn_egg",
+    "aux": 5007,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "179b96c5-7627-406d-e42b-838a29ab0291",
+    "name": "minecraft:spawn_egg",
+    "aux": 5008,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c2e5a2eb-7888-e2cb-c641-951f93f5937b",
+    "name": "minecraft:spawn_egg",
+    "aux": 5009,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "88f06490-d30e-fd23-d515-261d9cde4879",
+    "name": "minecraft:spawn_egg",
+    "aux": 5010,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "660c0f43-72f6-3735-1af3-38c987259ab6",
+    "name": "minecraft:spawn_egg",
+    "aux": 5011,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "20519eb8-6256-4fdd-a598-a2a20de10e1c",
+    "name": "minecraft:spawn_egg",
+    "aux": 5012,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b8d149e4-5fee-f34d-bf56-24ec03e446b8",
+    "name": "minecraft:spawn_egg",
+    "aux": 5013,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "2b76a637-a7e6-12b8-8d9d-58d3f1f8ed56",
+    "name": "minecraft:spawn_egg",
+    "aux": 5014,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "67d3d739-00fe-4e4b-4d6f-ccf2dac8bc06",
+    "name": "minecraft:spawn_egg",
+    "aux": 5015,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "1ba6f2e8-a746-8597-3445-090a2d1cd732",
+    "name": "minecraft:spawn_egg",
+    "aux": 5016,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8e7cf221-0472-eb6c-4488-d4d5b0ee576e",
+    "name": "minecraft:spawn_egg",
+    "aux": 5017,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "9e416506-5853-1b50-2484-97fa03553694",
+    "name": "minecraft:spawn_egg",
+    "aux": 5018,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "ad24ee10-2f92-4ae8-4b5c-894aece9f834",
+    "name": "minecraft:spawn_egg",
+    "aux": 5019,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c6939411-4ca4-7982-5d9c-e9291179dce0",
+    "name": "minecraft:spawn_egg",
+    "aux": 5020,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "cdc029f4-c70f-7158-eb95-95c8f3b28669",
+    "name": "minecraft:spawn_egg",
+    "aux": 5021,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3098f079-453a-5309-fb14-8067a199f01f",
+    "name": "minecraft:spawn_egg",
+    "aux": 5022,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "df11aab9-cc2d-a914-9653-434def8d52c3",
+    "name": "minecraft:spawn_egg",
+    "aux": 5023,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f67bd319-db40-32cf-0891-73227e96e983",
+    "name": "minecraft:spawn_egg",
+    "aux": 5024,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "fc218694-57ed-3712-27f4-85ac79ba86ca",
+    "name": "minecraft:spawn_egg",
+    "aux": 5025,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0cbe1f29-f0e7-880e-0862-41a20eec024a",
+    "name": "minecraft:spawn_egg",
+    "aux": 5026,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "cadf471c-8e90-b5a0-8376-9e0882f59e53",
+    "name": "minecraft:spawn_egg",
+    "aux": 5027,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "ba6b6909-b76c-8034-fec8-059a7a18ead9",
+    "name": "minecraft:spawn_egg",
+    "aux": 5028,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e4b00fc1-9143-00ed-e930-8c1c09c35d63",
+    "name": "minecraft:spawn_egg",
+    "aux": 5029,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "7535d81e-c960-28f2-d3ca-d1fd7b813c34",
+    "name": "minecraft:spawn_egg",
+    "aux": 5030,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "576df436-a542-5692-458d-a60f69cc4a04",
+    "name": "minecraft:spawn_egg",
+    "aux": 5031,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a0741c98-1bd7-b21e-998e-5adc57fd245d",
+    "name": "minecraft:spawn_egg",
+    "aux": 5032,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "41cceca7-90f0-1e8f-fa69-c468ab49eec2",
+    "name": "minecraft:spawn_egg",
+    "aux": 5033,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "99c19bda-f20c-7fb4-926a-c21f760be4a3",
+    "name": "minecraft:spawn_egg",
+    "aux": 5034,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "caf00a9c-b1f9-c37a-0f75-c8c7659becb0",
+    "name": "minecraft:spawn_egg",
+    "aux": 5040,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "2e8e0fd5-d3b8-70be-b36a-31bd0caeafa8",
+    "name": "minecraft:spawn_egg",
+    "aux": 5041,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "9dde0e4e-8104-f807-b714-2a5fa7ead5b9",
+    "name": "minecraft:spawn_egg",
+    "aux": 5042,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f6629c5b-11bf-e128-a465-b875d4ff7d1b",
+    "name": "minecraft:spawn_egg",
+    "aux": 5043,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "69840d34-5fde-64f1-0710-d8f9a34e3e5e",
+    "name": "minecraft:spawn_egg",
+    "aux": 5044,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "7a20d9c5-5c61-9b59-2114-a535f269cfd3",
+    "name": "minecraft:spawn_egg",
+    "aux": 5045,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "1bb789e2-c02e-c630-016a-9757d1bb26d2",
+    "name": "minecraft:spawn_egg",
+    "aux": 5046,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "ea2d68a2-fc49-0674-7422-2a546526476a",
+    "name": "minecraft:spawn_egg",
+    "aux": 5047,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "97bffc08-41f7-8520-0b36-21ba29b320a3",
+    "name": "minecraft:spawn_egg",
+    "aux": 5049,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+    "name": "minecraft:spawn_egg",
+    "aux": 5050,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f4b8464c-6664-bbcd-0151-effce8347419",
+    "name": "minecraft:spawn_egg",
+    "aux": 5051,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "6b9dca6b-7515-a83a-f4d2-d5a464247963",
+    "name": "minecraft:spawn_egg",
+    "aux": 5055,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "0561d711-4266-92fe-4297-56de144a16a4",
+    "name": "minecraft:spawn_egg",
+    "aux": 5057,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "e83cae16-1460-7487-202c-ff7000120c8d",
+    "name": "minecraft:spawn_egg",
+    "aux": 5058,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "68486cd0-d9ce-4414-73e0-ecdb33824d9f",
+    "name": "minecraft:spawn_egg",
+    "aux": 5059,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "78336011-1ae2-b7eb-d169-87f8c2985f0a",
+    "name": "minecraft:spawn_egg",
+    "aux": 5062,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "fd3399b1-bea8-1931-a583-0296b22e48a6",
+    "name": "minecraft:spawn_egg",
+    "aux": 5063,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4f485a45-5d0b-c51e-72e3-219796c2e01b",
+    "name": "minecraft:spawn_egg",
+    "aux": 5064,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "5967f131-4655-1b1a-68ea-ed7231000bb2",
+    "name": "minecraft:spawn_egg",
+    "aux": 5065,
+    "stackable": true,
+    "category": "mobs",
+    "rarity": "common"
+  },
+  {
+    "uuid": "807c9f32-8426-99f9-d3a5-8e9b13b0dbcb",
+    "name": "minecraft:speckled_melon",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "cbe6f77f-f9cd-6b53-6d51-cb8166a5bf76",
+    "name": "minecraft:spider_eye",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f5b5e2fa-cb37-34f7-288c-68debb29fcff",
+    "name": "minecraft:spruce_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "359ee792-7301-18f8-0c83-9e270c715148",
+    "name": "minecraft:spruce_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "1f07d984-2637-b343-4753-4dd6ef9bff49",
+    "name": "minecraft:spruce_fence_gate",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "443bb56e-392d-7887-c412-dd6b6b168635",
+    "name": "minecraft:spruce_pressure_plate",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b913bc17-f3c1-0577-be95-8a059f3112c2",
+    "name": "minecraft:spruce_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "6fd8700c-5da4-6693-d317-74fb2d0d75f7",
+    "name": "minecraft:spruce_trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8b104370-7ad7-71fd-8b29-ffd8fcce6277",
+    "name": "minecraft:stained_glass",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "928597d9-b3d0-ed7d-1887-5e1edf892811",
+    "name": "minecraft:stained_glass",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a98a76eb-ff8e-de41-12db-1e6096ba3c6a",
+    "name": "minecraft:stained_glass",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "edf565b5-bf02-7001-2519-4a6500e77da3",
+    "name": "minecraft:stained_glass",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "3bf5f9d4-73dc-bbe9-1f7c-0e1804556d89",
+    "name": "minecraft:stained_glass",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "47e51213-3266-b252-3a22-9b2b52d97be9",
+    "name": "minecraft:stained_glass",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "50983073-d929-2348-58ed-f5a2eea95352",
+    "name": "minecraft:stained_glass",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bffa3af2-74db-c24a-21f9-288056c51df5",
+    "name": "minecraft:stained_glass",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "803aa7f4-e518-fa27-7b39-7ae5cdcf4534",
+    "name": "minecraft:stained_glass",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4f4ae305-4897-f324-dbe1-d36062fbf0fc",
+    "name": "minecraft:stained_glass",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c9afbac2-6046-53bc-2471-812a9e0fe4c5",
+    "name": "minecraft:stained_glass",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "717844fc-e234-7b0f-845a-2ef969032e7a",
+    "name": "minecraft:stained_glass",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d969bf6d-e299-473b-819a-470a5e9d8657",
+    "name": "minecraft:stained_glass",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f41b80f2-1ed4-486c-97fb-391fc9470168",
+    "name": "minecraft:stained_glass",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b4e35144-4868-8115-8ac2-79116f0cb94a",
+    "name": "minecraft:stained_glass",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8c18c5f7-dd65-eb60-b248-aa51e75f3b9f",
+    "name": "minecraft:stained_glass",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a5bb5618-c8e4-c08a-d052-3b33e9fcfffe",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "332122d6-b40a-7fbb-4f5c-38018a225188",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "085daf34-4d4b-af81-64a8-ce4ba18fe1f1",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "2b64ce36-b74b-3eba-3cbd-d4e6d7a9f8c1",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "077d8d84-e950-49ee-8908-7abf9a86f22a",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ba3af7de-2238-c7b3-3740-528d961f45d6",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "cccbfd54-0a4f-43a7-3730-ba57ebfdff0f",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "34b76b31-6595-4a27-25be-22e9982face7",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a3139bc5-64dd-b385-220d-5a66faafa95d",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9515bd48-07be-f8eb-63da-58133a0accf0",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "622fe40e-2fbd-89de-25c5-b0a288a6ac21",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "229b51eb-027a-bff5-61d8-16b756daac35",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1b52fddd-ba17-bf06-501a-508e49a89688",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ba8ffbb8-4db6-c036-ab8f-2f7bdffbf9bb",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bf40226a-0d15-7a58-18d9-0407404ffcde",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "50ade172-13af-a5a1-d5f4-dca06fcf2fed",
+    "name": "minecraft:stained_glass_pane",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "a06bf8c7-f350-1a55-ee58-f50dac614b34",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "13a8341a-ef9e-ecdb-5400-27eaddd85c37",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "b1ec391b-2f3c-dd99-cfff-4bee68b01146",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "881dc57f-051e-e292-7b18-59a6bf9c1107",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "1c237665-1c0f-6216-c25f-6ebaa7a52af6",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "2ac19db3-1394-f4a2-6d47-8102ff4b73e9",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "6040742d-0d46-8fd9-062c-b36470ba2030",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "a0b5b0cb-a71f-2889-c3f4-e4558ffaf30c",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "bd180107-9041-75ce-54ee-4489bd84d07f",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5d64119b-e9ae-6666-62d6-c6772ea41531",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "8fc68864-b1fa-eb75-662a-6f698c642dfc",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "14a85d17-620d-907c-e76e-303c0ed719be",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "a8a7d0e5-e606-648d-32cc-4387faa63f70",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "5f0ada46-8ea4-d3da-efde-bacee07f98c7",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c55740e4-2c67-ddd1-a9bc-ee4aef35602c",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "65e4db5b-ec63-0fa1-318b-ae1c5e604c22",
+    "name": "minecraft:stained_hardened_clay",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "a278b35c-297d-f144-8625-be5fe5d46143",
+    "name": "minecraft:stick",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "eed33bfa-83cd-5bd9-a371-f58ea1f4e0d0",
+    "name": "minecraft:sticky_piston",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "6765082b-2c8a-a0e1-2943-516cb1567638",
+    "name": "minecraft:stone",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "5fa4c9bd-e618-a2e4-96e6-639f7cffc4e4",
+    "name": "minecraft:stone",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "9a0b3501-a1db-0d8c-b04a-f82a9d9d8c72",
+    "name": "minecraft:stone",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "fc593f6c-c5a9-c608-d0aa-c89a42b6703d",
+    "name": "minecraft:stone",
+    "aux": 3,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "713ddf6c-1163-3ac3-9ab3-315dc18fb9ca",
+    "name": "minecraft:stone",
+    "aux": 4,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "663f3282-95c6-6d22-ebf5-f1f923964d77",
+    "name": "minecraft:stone",
+    "aux": 5,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "d129857c-2182-ed2e-a42e-5857d527f456",
+    "name": "minecraft:stone",
+    "aux": 6,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "332466c8-2358-4fca-b0b2-9949b63ca5fb",
+    "name": "minecraft:stone_axe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "464dc3a7-3efc-2bf0-fd85-e6b0adabd34d",
+    "name": "minecraft:stone_brick_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "fe93408f-81ef-4e2a-8e44-959fb3ca1b38",
+    "name": "minecraft:stone_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "4116dc9b-47b4-4497-a3c7-7b69685b350c",
+    "name": "minecraft:stone_hoe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "73bbd3e1-7346-4eea-ab84-2baaca4fef53",
+    "name": "minecraft:stone_pickaxe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 1056,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "0d78acb3-3dc9-bbc4-01ae-8b10c76867f9",
+    "name": "minecraft:stone_pressure_plate",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a3435b17-e552-4390-8853-908b24dbba6c",
+    "name": "minecraft:stone_shovel",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "feea214a-0d43-4a46-6913-6e8f8d5d35fc",
+    "name": "minecraft:stone_slab",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "2c64c8fb-7343-f24c-d2fd-3d14fdacf330",
+    "name": "minecraft:stone_slab",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "2003a48e-3015-7616-aa4c-2d5219113640",
+    "name": "minecraft:stone_slab",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "8c751b37-3d8d-9fc8-5b0a-763bddc94955",
+    "name": "minecraft:stone_slab",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "bd23ba7f-7ea9-e26c-70f6-cedd4c15b789",
+    "name": "minecraft:stone_slab",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8ff7a568-8076-fe01-ac69-169319040cdc",
+    "name": "minecraft:stone_slab",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "beec6156-f623-bdc5-c73c-b769be2a331f",
+    "name": "minecraft:stone_slab2",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c4fe1361-2067-09cb-dcdc-cdbeb1ccb42d",
+    "name": "minecraft:stone_slab2",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "67b66e2d-8538-4259-877a-5703fc18a94b",
+    "name": "minecraft:stone_slab2",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "41d9e40d-d528-6c12-6ed6-650221ffa934",
+    "name": "minecraft:stone_slab3",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "950c6bb0-eb0d-cb50-a579-f0916dd30ac4",
+    "name": "minecraft:stone_slab3",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "6a5a3bf8-f621-8e42-ed34-7b2bd24fe148",
+    "name": "minecraft:stone_slab3",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c02ebac8-5045-3817-d8f6-091848914c2f",
+    "name": "minecraft:stone_slab3",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "5f1a3136-2f8b-e960-2dbe-62b292b4b8c2",
+    "name": "minecraft:stone_slab3",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "159e2226-e182-5c0d-b512-f67207611201",
+    "name": "minecraft:stone_slab3",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "a3ffe4bd-2a20-3f4e-cbae-64883ee7bfd3",
+    "name": "minecraft:stone_slab3",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "e88ca309-5c8a-d950-f2b2-205c77ef32e3",
+    "name": "minecraft:stone_slab4",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "53486076-3d38-0728-adea-4da83ebffa28",
+    "name": "minecraft:stone_slab4",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "03479613-9ae2-af6c-80da-931d6d9070ce",
+    "name": "minecraft:stone_slab4",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b3a5e528-5b9a-d9d6-ad7c-23d694b0aa38",
+    "name": "minecraft:stone_slab4",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "26fb2175-87db-8964-f519-788ca2a6442c",
+    "name": "minecraft:stone_slab4",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "62194c5b-b8d2-0388-4d10-0f135d731e2d",
+    "name": "minecraft:stone_stairs",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "285b1cdb-23bc-4cc0-83e2-361f90ac3dd7",
+    "name": "minecraft:stone_sword",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "97efc3a4-4a52-2c3a-c8e1-c2e8755cfc6f",
+    "name": "minecraft:stonebrick",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "c5c7e2ae-3246-7a44-8ab5-e6b2589c0f43",
+    "name": "minecraft:stonebrick",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "5f814252-8f07-457a-6ff7-cf11454af8b8",
+    "name": "minecraft:stonebrick",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "39ebc6ca-6529-6fdb-39ee-82f13b3317f1",
+    "name": "minecraft:stonebrick",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "b6bd9483-b995-413c-b9ba-447e4daf8e69",
+    "name": "minecraft:strength_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c4231eb5-8fc0-4ad7-ad18-ecfcb0734049",
+    "name": "minecraft:strength_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "924d1428-7427-48e2-b0ae-5a3eeeba3d9c",
+    "name": "minecraft:strength_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "815afac8-1606-7013-a2aa-1ccb6cf74de3",
+    "name": "minecraft:string",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "8bc7442d-f338-9fad-1d62-c1bba19be378",
+    "name": "minecraft:stripped_acacia_log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "97d6efd6-2c47-a1d3-f062-361f25bb5a98",
+    "name": "minecraft:stripped_birch_log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "4651cb81-22de-a7d6-34c4-5e47f20ce22f",
+    "name": "minecraft:stripped_dark_oak_log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4ea340b3-4fdb-00c5-a858-f3d55dba5eb9",
+    "name": "minecraft:stripped_jungle_log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "f4a2ff14-d55b-3b77-437e-d2d293b84afd",
+    "name": "minecraft:stripped_oak_log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "9100ec7e-ab96-4647-fd29-0bce50b93d00",
+    "name": "minecraft:stripped_spruce_log",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "3c493c84-649d-2f92-cd8a-06df872288ef",
+    "name": "minecraft:sugar",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+    "name": "minecraft:tallgrass",
+    "aux": 1,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "24179638-b219-2bc3-5dc3-94be3a569da0",
+    "name": "minecraft:tallgrass",
+    "aux": 2,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "234432db-03c6-46f3-85c6-289cc710ca90",
+    "name": "minecraft:tappableRadius_1",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "89726b8c-2716-44ea-b07c-ac1c319d3e18",
+    "name": "minecraft:tappableRadius_2",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "79a0bc61-84e6-4c77-ba12-df0bad32a06f",
+    "name": "minecraft:tappableRadius_3",
+    "aux": 0,
+    "stackable": true,
+    "category": "invalid",
+    "rarity": "common"
+  },
+  {
+    "uuid": "c409783a-8f32-fa9f-1026-54bbaaaedc38",
+    "name": "minecraft:tnt",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "c2fead8a-3539-da39-047c-4c156c4438fe",
+    "name": "minecraft:torch",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e92ffb35-71a8-18c9-78ef-e0931801d164",
+    "name": "minecraft:trapdoor",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e2a1516b-07c1-4cab-bf13-976688e558d2",
+    "name": "minecraft:tripwire",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "80b5508b-1dc6-2e0a-a5b2-07a15879d933",
+    "name": "minecraft:tripwire_hook",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "91b5bc0c-d963-ff75-ac0f-0a8041037675",
+    "name": "minecraft:unlit_redstone_torch",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4c6779d1-4677-1675-daba-6d24a7ea9c9d",
+    "name": "minecraft:unpowered_comparator",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "2447dd67-4f0d-318b-67b0-d811800b37f4",
+    "name": "minecraft:unpowered_repeater",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "000c355c-3b9a-4313-bbe3-fbcaa7e97871",
+    "name": "minecraft:vine",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "4f7abf80-d89b-2b30-d6c5-24516fc90bca",
+    "name": "minecraft:water",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "205398ce-3367-6d75-998e-182e95b137fe",
+    "name": "minecraft:waterlily",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "fdd548ff-b1ae-9a91-6c54-19a64358195b",
+    "name": "minecraft:web",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "ab7b4993-c7f9-bfd9-9ada-7f60b1953466",
+    "name": "minecraft:wheat",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+    "name": "minecraft:wheat_seeds",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e7c7f2ff-4233-0824-5d87-3344c9082616",
+    "name": "minecraft:white_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  },
+  {
+    "uuid": "7f99f866-55e9-8c16-463d-33ec18ccf535",
+    "name": "minecraft:wooden_axe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "d3c1b5c3-4d80-1832-1ecc-209c6a3bca8f",
+    "name": "minecraft:wooden_button",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "1faa8c67-10ec-6f43-8002-08fe61df6add",
+    "name": "minecraft:wooden_door",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f9a704a1-853d-4afd-92f5-285fb2aa2039",
+    "name": "minecraft:wooden_hoe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "730573d1-ba59-4fd4-89e0-85d4647466c2",
+    "name": "minecraft:wooden_pickaxe",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 1056,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "957f2564-20b6-bc0a-59fd-ecfc0ca8e20b",
+    "name": "minecraft:wooden_pressure_plate",
+    "aux": 0,
+    "stackable": true,
+    "category": "items",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b6dd1cb9-cd05-4a90-ba32-7b18246dd5f1",
+    "name": "minecraft:wooden_shovel",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f9deeb00-51ff-714c-93be-fd2b65ef4022",
+    "name": "minecraft:wooden_slab",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "531af72c-84e9-7e42-fea9-534a420896a9",
+    "name": "minecraft:wooden_slab",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "2600f934-765b-3325-803e-e6cf0c485974",
+    "name": "minecraft:wooden_slab",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "b499bae9-9d02-baf6-1828-08a90133f5b3",
+    "name": "minecraft:wooden_slab",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "fd6f815d-9a18-e8c7-5c81-853b3087307e",
+    "name": "minecraft:wooden_slab",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "uncommon"
+  },
+  {
+    "uuid": "393d90c3-4968-72ab-22c9-dff5d0ec3861",
+    "name": "minecraft:wooden_slab",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "rare"
+  },
+  {
+    "uuid": "cd132152-9966-4050-904e-6ae6ffb885bb",
+    "name": "minecraft:wooden_sword",
+    "aux": 0,
+    "stackable": false,
+    "maxWear": 528,
+    "category": "equipment",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f1d30067-013c-0e1a-d648-59a016413ae1",
+    "name": "minecraft:wool",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f3e30b84-ebc9-298c-719d-acea0c0765f2",
+    "name": "minecraft:wool",
+    "aux": 1,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "848dc6b9-2a79-753e-959e-707ddd6e05b7",
+    "name": "minecraft:wool",
+    "aux": 2,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "bbda2d50-b0c9-ac2f-be13-33e620f40c36",
+    "name": "minecraft:wool",
+    "aux": 3,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "0781532f-b3bc-ad53-b057-64f8166c5b76",
+    "name": "minecraft:wool",
+    "aux": 4,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "ea138f37-7220-a5c8-8e07-7ba7ae3694ec",
+    "name": "minecraft:wool",
+    "aux": 5,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "f02ea140-d657-cbbe-e1a3-fca59f9a8a29",
+    "name": "minecraft:wool",
+    "aux": 6,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e54e76d7-d7a7-b16f-de7a-5b158b29db70",
+    "name": "minecraft:wool",
+    "aux": 7,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "2cb7a700-f2cf-ae06-7cd8-f3c8afbaf130",
+    "name": "minecraft:wool",
+    "aux": 8,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "0c5902e8-5cdc-900a-5026-d968e454a888",
+    "name": "minecraft:wool",
+    "aux": 9,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "fb3151e7-85d1-5751-2ed7-decd4654498a",
+    "name": "minecraft:wool",
+    "aux": 10,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "6f6ed314-7f7d-d045-d574-737827cc564a",
+    "name": "minecraft:wool",
+    "aux": 11,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "804cdae8-3af6-71fb-e773-a02c422d73fc",
+    "name": "minecraft:wool",
+    "aux": 12,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "735b3ca0-467a-3d93-f91b-fb698f74c230",
+    "name": "minecraft:wool",
+    "aux": 13,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "414165d7-2350-a714-df99-04bd2add7ec8",
+    "name": "minecraft:wool",
+    "aux": 14,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "e8c95c6f-a9d1-449e-1592-edd14f0cd1d4",
+    "name": "minecraft:wool",
+    "aux": 15,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "common"
+  },
+  {
+    "uuid": "240c8671-3490-620f-34e4-858956d31805",
+    "name": "minecraft:yellow_flower",
+    "aux": 0,
+    "stackable": true,
+    "category": "nature",
+    "rarity": "common"
+  },
+  {
+    "uuid": "33ed746f-7115-d1b5-1a47-056422800c5d",
+    "name": "minecraft:yellow_glazed_terracotta",
+    "aux": 0,
+    "stackable": true,
+    "category": "construction",
+    "rarity": "epic"
+  }
+]
