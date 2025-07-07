@@ -1,0 +1,39 @@
+{
+  "Purchasable": true,
+  "Cost": 75,
+  "Data": {
+    "Type": "Buildplate",
+    "Version": "1.1.0",
+    "Rarity": "Uncommon",
+    "Id": "be8ea042-9975-5281-aa5a-21eb7600291f",
+    "Size": "Medium",
+    "UnlockLevel": 1
+  },
+  "Title": "Secluded Mine",
+  "Description": "Keep your wits about you when adventuring in dark places. What lurks in the shadows could be harmful.",
+  "ThumbnailImageId": "f6f840aa-52ee-4d64-b0e8-a06aee5df872",
+  "CreationDate": "2020-03-09T18:14:23.404Z",
+  "LastModifiedDate": "2021-01-05T17:15:13.067Z",
+  "StartDate": "2020-03-10T18:00:00Z",
+  "Id": "8aaa1577-5a4d-409b-842f-73ae13a05f78",
+  "FriendlyId": "5e3b86fe-3d6b-486d-a37f-766c4c6266d6",
+  "SourceEntityId": "B63A0803D3653643",
+  "CreatorEntityId": "301F442C3B63DC20",
+  "Tags": [
+    "8aaa1577-5a4d-409b-842f-73ae13a05f78",
+    "tag.zombie",
+    "tag.logs",
+    "1P",
+    "earth_discount"
+  ],
+  "Keywords": {},
+  "Contents": [],
+  "ItemReferences": [
+    {
+      "Id": "f1aaaf84-f76a-4595-8ce9-4674a6a44c8a",
+      "Amount": 1
+    }
+  ],
+  "TitleTranslations": {},
+  "DescriptionTranslations": {}
+}

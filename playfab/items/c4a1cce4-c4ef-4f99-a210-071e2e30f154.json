@@ -1,0 +1,40 @@
+{
+  "Purchasable": true,
+  "Cost": 94,
+  "Data": {
+    "Type": "Buildplate",
+    "Version": "1.1.0",
+    "Rarity": "Rare",
+    "Id": "2ea12a36-8a2c-0601-1b59-a590c27510e8",
+    "Size": "Medium",
+    "UnlockLevel": 1
+  },
+  "Title": "Toadstool Terrace",
+  "Description": "Anywhere can be a home if you try hard enough.",
+  "ThumbnailImageId": "3087325d-d676-4c39-830d-95b269b9da60",
+  "CreationDate": "2020-03-09T18:15:01.48Z",
+  "LastModifiedDate": "2021-01-05T17:15:56.77Z",
+  "StartDate": "2020-03-10T18:00:00Z",
+  "Id": "c4a1cce4-c4ef-4f99-a210-071e2e30f154",
+  "FriendlyId": "e24898b9-de5b-4100-95f5-b9fd334ec8bb",
+  "SourceEntityId": "B63A0803D3653643",
+  "CreatorEntityId": "301F442C3B63DC20",
+  "Tags": [
+    "c4a1cce4-c4ef-4f99-a210-071e2e30f154",
+    "tag.flowers",
+    "tag.house",
+    "tag.logs",
+    "1P",
+    "earth_discount"
+  ],
+  "Keywords": {},
+  "Contents": [],
+  "ItemReferences": [
+    {
+      "Id": "68514879-d04e-4182-bf8d-553d054c521d",
+      "Amount": 1
+    }
+  ],
+  "TitleTranslations": {},
+  "DescriptionTranslations": {}
+}
