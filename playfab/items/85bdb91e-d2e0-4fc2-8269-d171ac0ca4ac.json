@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Rare",
     "Id": "2ef467d0-24d7-6b2b-3ae1-489962cc74fa",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.0.0"
   },
   "Title": "A Bit Fancy",
   "Description": "Golden grandeur! What a fancy place for such fine fowl.",
@@ -40,6 +40,7 @@
     "de-DE": "Ein wenig abgehoben",
     "el-GR": "Λίγο Φανταχτερό",
     "en-GB": "A Bit Fancy",
+    "en-US": "A Bit Fancy",
     "es-ES": "Un toque de elegancia",
     "es-MX": "Un poco elegante",
     "fi-FI": "Asteen verran hienompi",
@@ -70,6 +71,7 @@
     "de-DE": "Goldene Erhabenheit! Was für ein wunderbarer Ort für solch ein herrliches Tier!",
     "el-GR": "Χρυσό μεγαλείο! Τι φανταχτερό μέρος για τόσο ωραία πτηνά.",
     "en-GB": "Golden grandeur! What a fancy place for such fine fowl.",
+    "en-US": "Golden grandeur! What a fancy place for such fine fowl.",
     "es-ES": "¡Qué grandeza dorada! Qué lugar tan elegante para esas aves tan finas.",
     "es-MX": "¡Grandeza dorada! Qué lugar tan elegante para estas aves tan finas.",
     "fi-FI": "Kultaista loistoa! Onpa hieno paikka kauniille siipikarjalle.",

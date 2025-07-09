@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "7768e3de-aea7-4171-8fdd-2b69cce45ee6",
-    "Amount": 5
+    "Cost": 19,
+    "Amount": 5,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Hoarding Boost II",
   "Description": "Keep your backpack contents and XP even if you die. So amazing!",
@@ -39,6 +39,7 @@
     "de-DE": "Anhäufungs-Boost II",
     "el-GR": "Ενίσχυση συγκέντρωσης II",
     "en-GB": "Hoarding Boost II",
+    "en-US": "Hoarding Boost II",
     "es-ES": "Potenciador de acumulación II",
     "es-MX": "Aumento de acumulación II",
     "fi-FI": "Hamstraustehostus II",
@@ -69,6 +70,7 @@
     "de-DE": "Behalte deinen Rucksackinhalt und deine EP, auch wenn du stirbst. Großartig!",
     "el-GR": "Κράτησε το περιεχόμενο του σακιδίου σου και τους πόντους εμπειρίας ακόμα κι αν πεθάνεις. Φανταστικό!",
     "en-GB": "Keep your backpack contents and XP even if you die. So amazing!",
+    "en-US": "Keep your backpack contents and XP even if you die. So amazing!",
     "es-ES": "Mantienes el contenido de tu mochila y tu EXP incluso si mueres. ¡Increíble!",
     "es-MX": "Conserva el contenido de tu mochila y tu EXP aunque mueras. ¡Es fantástico!",
     "fi-FI": "Reppusi sisältö ja kokemuspisteesi säilyvät, vaikka kuolisit. Todella upeeta!",

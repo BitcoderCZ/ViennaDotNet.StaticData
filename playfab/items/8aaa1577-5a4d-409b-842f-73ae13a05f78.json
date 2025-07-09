@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 75,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.0",
-    "Rarity": "Uncommon",
     "Id": "be8ea042-9975-5281-aa5a-21eb7600291f",
+    "Cost": 75,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Uncommon",
+    "Version": "1.1.0"
   },
   "Title": "Secluded Mine",
   "Description": "Keep your wits about you when adventuring in dark places. What lurks in the shadows could be harmful.",
@@ -34,6 +34,10 @@
       "Amount": 1
     }
   ],
-  "TitleTranslations": {},
-  "DescriptionTranslations": {}
+  "TitleTranslations": {
+    "en-US": "Secluded Mine"
+  },
+  "DescriptionTranslations": {
+    "en-US": "Keep your wits about you when adventuring in dark places. What lurks in the shadows could be harmful."
+  }
 }

@@ -1,0 +1,458 @@
+{
+    "TabId": "boosts",
+    "TabTitle": "editorialtool.earth.Boosts",
+    "TabIcon": "textures/ui/icons/pixel_icons/boost",
+    "ScreenLayoutQueries":
+    [
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "14573f0c-0e18-4b4c-8868-c4d90e3cd509"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "7862b0de-ecc0-4107-c7e3-2f2cb8c02c41"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "c025702d-5b96-4745-bb4b-93911ee8c32a",
+                "9f13aa99-9243-47eb-8fe4-82909b49de8e"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "a75ca215-681c-4000-2419-6225577239f0"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "6c7e7718-b800-483b-93f3-80f28a7bc597"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "943c0b1b-f3cf-4675-0208-402b0c86874c"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "43a5011e-911a-4061-b5fb-1f9295bcbba1",
+                "98c03065-5271-4303-933a-0643af1d1e41"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "874fabfe-0570-483c-22bd-580c2c28ee87"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "b29f5e35-5e01-43f7-821e-690735a99e88"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "938cf1b8-6bc1-4b93-73a9-5baec9b1f1e6"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "eacc48e8-ebbd-4b6f-983f-3522865eccea",
+                "d96c0f65-1001-4220-bd80-405060bbf3be"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "0fb6b780-73bc-450f-6c74-3fc1b23cb7d4"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "b54a3553-8d6a-4d45-aac4-2b0a904e6f47"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "52e570a0-208b-4295-5702-da746e00b073"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "4062100a-ada2-4974-86d2-09b606596bc7",
+                "c5ea2fb3-b3f6-4d9f-8b22-c9c2b69eed9e"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "58d4b9a9-536c-47f3-77b9-5606a25ca466"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "c3120a4c-a5c3-4dbb-bbfc-64d55b176952"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "5708c274-b7fe-406d-fcc3-8b85a91e7685"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "4166efe4-26a0-4e20-bc84-84cc78632bbc",
+                "23ce5e1d-2074-4f84-9ccd-249819030054"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "0d193497-b532-4a12-6f68-35806745e3c1"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "3bedcd77-a506-47a8-ba59-01a915ddb5c5"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "9a7a90b4-4ab1-4825-812f-f6e7a54c1894"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "9d957be1-94c8-4be8-9e1d-d497471943b7",
+                "055229aa-c10a-40af-92b9-15086096dac4"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "df6b83e0-258d-49ef-a5f0-eb18d0cfcb3c"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "8366474d-7afb-4d6d-a376-ad2b09c807f4"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "11652079-c692-4adf-c5ef-dccb275f5c96"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "3a0fbea6-d40d-40ab-9467-91900438d9b1",
+                "643826f8-c109-4b42-b763-be039ea7752b"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "5fa59b4f-cf8c-4e4c-f3f5-ee5314ebd8d4"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "995b4adb-e856-4c4b-a559-8af1bfeeb99b"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "c6b6170e-2f99-47d2-0134-ab8706d508ed"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "8ba36e03-6def-4479-8aac-454dc21caa9b",
+                "200b31fc-137b-4a05-838e-ff532b95eba3"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "fd2d4fd9-7241-4753-a44d-1fcfe9f31005"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "6209f825-d137-48f9-8081-c095aab9849f"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "c6932a96-4f81-47cc-a93a-ed98504f8360"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "8fcf61aa-31f1-43dd-bf20-4ce67f6de2b5",
+                "ca70fd76-da76-41a2-9159-6dd4c034c156"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "b3d0a464-a686-457e-fe90-f815ac54e375"
+        },
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+            {
+                "ProductIds": [
+                "a4eac031-6f19-41ac-a041-d04902dfd9ba"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "8e7848f2-4fc3-4182-2fea-78a5703b460f"
+        },
+        {
+            "ColumnType": "Grid",
+            "Queries": [
+            {
+                "ProductIds": [
+                "5de2c884-8b0d-4db2-893e-6824d603454e",
+                "46e14441-e111-4773-b845-8ba31bd1db60"
+                ],
+                "QueryContentTypes": [
+                "Durable",
+                "Collection",
+                "Bundle",
+                "Persona",
+                "Genoa",
+                "BuildplateOffer",
+                "RubyOffer",
+                "InventoryItemOffer"
+                ],
+                "TopCount": 25
+            }
+            ],
+            "ComponentId": "27b3732f-3fd6-402e-a128-e4d2576a24a9"
+        }
+    ]
+}

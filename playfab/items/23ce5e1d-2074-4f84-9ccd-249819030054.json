@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "58fb6d35-f304-4930-acf8-73e789312d9a",
-    "Amount": 5
+    "Cost": 19,
+    "Amount": 5,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Defense Boost II",
   "Description": "Take less damage overall. Sweet!",
@@ -39,6 +39,7 @@
     "de-DE": "Verteidigungs-Boost II",
     "el-GR": "Ενίσχυση άμυνας II",
     "en-GB": "Defence Boost II",
+    "en-US": "Defense Boost II",
     "es-ES": "Potenciador de defensa II",
     "es-MX": "Aumento de defensa II",
     "fi-FI": "Puolustuksentehostus II",
@@ -69,6 +70,7 @@
     "de-DE": "Insgesamt erleidest du weniger Schaden. Toll!",
     "el-GR": "Η συνολική ζημιά που δέχεσαι είναι λιγότερη. Τέλεια!",
     "en-GB": "Take less damage overall. Sweet!",
+    "en-US": "Take less damage overall. Sweet!",
     "es-ES": "Recibes menos daño en general. ¡Mola!",
     "es-MX": "Recibe menos daño general. ¡Qué bien!",
     "fi-FI": "Kärsit yleisesti vähemmän vahinkoa. Päheetä!",

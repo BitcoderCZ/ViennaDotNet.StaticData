@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 75,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.1",
-    "Rarity": "Uncommon",
     "Id": "012c761c-e83a-767c-af63-c1eefca8a551",
+    "Cost": 75,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Uncommon",
+    "Version": "1.1.1"
   },
   "Title": "Not a sandcastle",
   "Description": "Rule over the desert in this oasis paradise!",
@@ -41,6 +41,7 @@
     "de-DE": "Keine Sandburg",
     "el-GR": "Όχι Κάστρο από Άμμο",
     "en-GB": "Not a sandcastle",
+    "en-US": "Not a sandcastle",
     "es-ES": "No es un castillo de arena",
     "es-MX": "No es un castillo de arena",
     "fi-FI": "Ei hiekkalinna",
@@ -71,6 +72,7 @@
     "de-DE": "Herrsche von dieser paradiesischen Oase aus über die Wüste!",
     "el-GR": "Κυριάρχησε στην έρημο σε αυτή την παραδεισένια όαση!",
     "en-GB": "Rule over the desert in this oasis paradise!",
+    "en-US": "Rule over the desert in this oasis paradise!",
     "es-ES": "¡Gobierna el desierto en este oasis paradisíaco!",
     "es-MX": "¡Domina el desierto en este paraíso de oasis!",
     "fi-FI": "Hallitse aavikkoa tässä keidasparatiisissa!",

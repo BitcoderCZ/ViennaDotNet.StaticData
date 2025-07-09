@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.2.0",
-    "Rarity": "Common",
     "Id": "fad4c769-b1b9-1847-7bcd-00b9a00a5546",
+    "Cost": 19,
     "Size": "Small",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.2.0"
   },
   "Title": "Lava in the jungle",
   "Description": "The little Parrot is a lovely bird! But watch your step or be assured your jungle adventures may be deterred.",
@@ -40,6 +40,7 @@
     "de-DE": "Lava im Dschungel",
     "el-GR": "Ζούγκλα και μπούρμπερη",
     "en-GB": "Lava in the jungle",
+    "en-US": "Lava in the jungle",
     "es-ES": "Lava en la jungla",
     "es-MX": "Lava en la jungla",
     "fi-FI": "Laavaa viidakossa",
@@ -70,6 +71,7 @@
     "de-DE": "Der kleine Papagei ist ein richtig possierliches Tierchen! Lass dich davon aber nicht ablenken und passe auf, wo du bei deinen Dschungelabenteuern hinläufst. Ansonsten finden sie ein schnelles Ende.",
     "el-GR": "Ο μικρός Παπαγάλος είναι ένα υπέροχο πουλί! Αλλά να είσαι προσεκτικός, διαφορετικά σίγουρα θα συναντήσεις εμπόδια στις περιπέτειές σου στη ζούγκλα.",
     "en-GB": "The little Parrot is a lovely bird! But watch your step or be assured your jungle adventures may be deterred.",
+    "en-US": "The little Parrot is a lovely bird! But watch your step or be assured your jungle adventures may be deterred.",
     "es-ES": "¡Tu lorito es un ave adorable! Pero ten cuidado por dónde pisas, o ten por seguro que tus aventuras en la jungla no llegarán muy lejos.",
     "es-MX": "¡El pequeño loro es un pájaro encantador! Pero ten cuidado, o de lo contrario tus aventuras en la jungla se verán obstaculizadas.",
     "fi-FI": "Pieni papukaija on ihastuttava lintu! Mutta varo askeleitasi tai viidakkoseikkailusi saattavat estyä.",

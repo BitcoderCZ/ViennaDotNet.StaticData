@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.2.0",
-    "Rarity": "Rare",
     "Id": "41d2c76a-3f50-60ab-9cdc-c4668812cd15",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.2.0"
   },
   "Title": "Sleepy village",
   "Description": "Is the village sleepy, or do you go to the village when you are sleepy? Go take a nap and find out.",
@@ -45,6 +45,7 @@
     "de-DE": "Verschlafenes Dorf",
     "el-GR": "Ήρεμο χωριουδάκι",
     "en-GB": "Sleepy village",
+    "en-US": "Sleepy village",
     "es-ES": "Aldea somnolienta",
     "es-MX": "Aldea soñolienta",
     "fi-FI": "Unelias kylä",
@@ -76,6 +77,7 @@
     "de-DE": "Ist das Dorf verschlafen oder besuchst du das Dorf, wenn du schläfst? Mach ein Nickerchen und finde es heraus.",
     "el-GR": "Σου φέρνει το χωριό υπνηλία ή πηγαίνεις στο χωριό όταν νυστάζεις; Πήγαινε να πάρεις έναν υπνάκο και μάθε.",
     "en-GB": "Is the village sleepy, or do you go to the village when you are sleepy? Go take a nap and find out.",
+    "en-US": "Is the village sleepy, or do you go to the village when you are sleepy? Go take a nap and find out.",
     "es-ES": "¿Esta aldea da sueño o es que siempre la visitas cuando ya estás adormilado? Échate una siesta y descúbrelo.",
     "es-MX": "¿La aldea tiene sueño, o solo visitas la aldea cuando tienes sueño? Ve a tomar una siesta y averígualo.",
     "fi-FI": "Onko kylä unelias vai menetkö kylään, kun olet unelias? Ota nokoset ja ota selvää.",

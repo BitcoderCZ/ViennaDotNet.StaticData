@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 2,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "75a749d3-f6a0-4f54-a785-9099403ea7e9",
-    "Amount": 1
+    "Cost": 2,
+    "Amount": 1,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Food Boost I",
   "Description": "Food is even more nutritious now. Yum, calories!",
@@ -39,6 +39,7 @@
     "de-DE": "Essensboost I",
     "el-GR": "Ενίσχυση τροφής I",
     "en-GB": "Food Boost I",
+    "en-US": "Food Boost I",
     "es-ES": "Potenciador de comida I",
     "es-MX": "Mejora de comida I",
     "fi-FI": "Ruokatehostus I",
@@ -69,6 +70,7 @@
     "de-DE": "Nahrung ist jetzt noch nahrhafter. Lecker, Kalorien!",
     "el-GR": "Η τροφή είναι ακόμα πιο θρεπτική τώρα. Μιαμ, θερμίδες!",
     "en-GB": "Food is even more nutritious now. Yum, calories!",
+    "en-US": "Food is even more nutritious now. Yum, calories!",
     "es-ES": "Ahora la comida es incluso más nutritiva. ¡Ñam! ¡Calorías!",
     "es-MX": "La comida es aún más nutritiva ahora. ¡Mmm, calorías!",
     "fi-FI": "Ruoka on nyt entistäkin ravitsevampaa. Nam, kaloreita!",

@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 2,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "bef8b1c2-54c6-4f69-a6c9-f1aa1ee18119",
-    "Amount": 1
+    "Cost": 2,
+    "Amount": 1,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Keeper Boost I",
   "Description": "Keep your hotbar even if you die. So amazing! ",
@@ -39,6 +39,7 @@
     "de-DE": "Hüter-Boost I",
     "el-GR": "Ενίσχυση διατήρησης I",
     "en-GB": "Keeper Boost I",
+    "en-US": "Keeper Boost I",
     "es-ES": "Potenciador de guardianes I",
     "es-MX": "Aumento de cuidador I",
     "fi-FI": "Pitotehostus I",
@@ -69,6 +70,7 @@
     "de-DE": "Behalte deine Schnellzugriffsleiste, auch wenn du stirbst. Großartig!",
     "el-GR": "Κράτησε το hotbar ακόμα κι αν πεθάνεις. Φανταστικό! ",
     "en-GB": "Keep your hotbar even if you die. So amazing!",
+    "en-US": "Keep your hotbar even if you die. So amazing! ",
     "es-ES": "Mantienes tu barra activa incluso si mueres. ¡Increíble! ",
     "es-MX": "Conserva tu barra visible aunque mueras. ¡Es fantástico!",
     "fi-FI": "Pikapalkkisi säilyy, vaikka kuolisit. Todella upeeta!",

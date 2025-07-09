@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Rare",
     "Id": "f4a42663-70dd-9dd4-2865-d33e0fbc04c3",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.0.0"
   },
   "Title": "Colorful Cottage",
   "Description": "What a magical place to be! Get creative with color and wool. Be proud of your creations.",
@@ -39,6 +39,7 @@
     "de-DE": "Farbenfrohe Hütte",
     "el-GR": "Πολύχρωμο Εξοχικό",
     "en-GB": "Colourful Cottage",
+    "en-US": "Colorful Cottage",
     "es-ES": "Casita de campo colorida",
     "es-MX": "Cabaña colorida",
     "fi-FI": "Värimökki",
@@ -69,6 +70,7 @@
     "de-DE": "Was für ein zauberhafter Ort! Sei kreativ, mit Farben und Wolle. Sei stolz auf deine Kreationen.",
     "el-GR": "Πόσο μαγικό είναι αυτό το μέρος! Γίνε δημιουργικός με χρώμα και μαλλί. Να είσαι υπερήφανος για τις δημιουργίες σου.",
     "en-GB": "What a magical place to be! Get creative with colour and wool. Be proud of your creations.",
+    "en-US": "What a magical place to be! Get creative with color and wool. Be proud of your creations.",
     "es-ES": "¡Qué lugar tan mágico! Da rienda suelta a tu creatividad con el color y la lana y siente orgullo por tus creaciones.",
     "es-MX": "¡Qué lugar tan mágico! Libera tu creatividad con los colores y la lana. Enorgullécete de tus creaciones.",
     "fi-FI": "Mikä maaginen paikka tämä onkaan! Ryhdy luovaksi värillä ja villalla. Ole ylpeä luomuksistasi.",

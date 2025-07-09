@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 25,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "e46a2a7b-02fc-4d7c-8ed6-b9c5de192ef9",
-    "Amount": 3
+    "Cost": 25,
+    "Amount": 3,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Keeper Boost III",
   "Description": "Keep your hotbar, XP and backpack even if you die. So amazing! ",
@@ -39,6 +39,7 @@
     "de-DE": "Hüter-Boost III",
     "el-GR": "Ενίσχυση διατήρησης III",
     "en-GB": "Keeper Boost III",
+    "en-US": "Keeper Boost III",
     "es-ES": "Potenciador de guardianes III",
     "es-MX": "Aumento de cuidador III",
     "fi-FI": "Pitotehostus III",
@@ -69,6 +70,7 @@
     "de-DE": "Behalte deine Schnellzugriffsleiste, deine EP und deinen Rucksack, auch wenn du stirbst. Großartig!",
     "el-GR": "Κράτησε το hotbar, τους πόντους εμπειρίας και το σακίδιό σου ακόμα κι αν πεθάνεις. Φανταστικό! ",
     "en-GB": "Keep your hotbar, XP and rucksack even if you die. So amazing! ",
+    "en-US": "Keep your hotbar, XP and backpack even if you die. So amazing! ",
     "es-ES": "Mantienes tu barra activa, EXP y mochila si mueres. ¡Tremendo! ",
     "es-MX": "Conserva tu barra visible, EXP y mochila aunque mueras. ¡Es fantástico!",
     "fi-FI": "Pikapalkkisi, kokemuspisteesi ja reppusi säilyvät, vaikka kuolisit. Todella upeeta!",

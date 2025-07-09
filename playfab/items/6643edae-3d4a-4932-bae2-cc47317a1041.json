@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 25,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.1",
-    "Rarity": "Uncommon",
     "Id": "e6e84ab3-7374-3445-e57a-14457f0aa51c",
+    "Cost": 25,
     "Size": "Small",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Uncommon",
+    "Version": "1.1.1"
   },
   "Title": "Cluck house",
   "Description": "Decorate this dugout and study fungus in earthy comfort.",
@@ -44,6 +44,7 @@
     "de-DE": "Pilzhühnerstall",
     "el-GR": "Κοκοκοφάρμα",
     "en-GB": "Cluck house",
+    "en-US": "Cluck house",
     "es-ES": "Casa de los cacareos",
     "es-MX": "Casa fúngica",
     "fi-FI": "Kotkottajien koti",
@@ -74,6 +75,7 @@
     "de-DE": "Dekoriere das Erdloch und studiere Pilze in erdigem Komfort.",
     "el-GR": "Διακόσμησε αυτό το καταφύγιο και μελέτησε τους μύκητες στην άνεση του χώματος.",
     "en-GB": "Decorate this dugout and study fungus in earthy comfort.",
+    "en-US": "Decorate this dugout and study fungus in earthy comfort.",
     "es-ES": "Decora este foso y estudia los hongos desde tu terrenal comodidad.",
     "es-MX": "Decora este refugio subterráneo y estudia los hongos con comodidad terrenal.",
     "fi-FI": "Sisusta tämä kaivanto ja tutki sieniä mukavasti maan sisällä.",

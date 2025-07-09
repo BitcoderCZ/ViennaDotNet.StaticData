@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.2.0",
-    "Rarity": "Common",
     "Id": "384b63d3-6dd4-e0b1-090b-87aa1a4326f6",
+    "Cost": 19,
     "Size": "Small",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.2.0"
   },
   "Title": "Chill spot",
   "Description": "Winter ice cannot deter the most resourceful survivalists.",
@@ -42,6 +42,7 @@
     "de-DE": "Ort zum Entspannen",
     "el-GR": "Χαλάρωση στον πάγο",
     "en-GB": "Chill spot",
+    "en-US": "Chill spot",
     "es-ES": "Punto frío",
     "es-MX": "Punto frío",
     "fi-FI": "Hengailupaikka",
@@ -73,6 +74,7 @@
     "de-DE": "Ein wenig Wintereis schreckt die einfallsreichsten Überlebenskünstler sicher nicht ab.",
     "el-GR": "Ο πάγος του χειμώνα δεν μπορεί να αποθαρρύνει τους πιο πολυμήχανους εξερευνητές.",
     "en-GB": "Winter ice cannot deter the most resourceful survivalists.",
+    "en-US": "Winter ice cannot deter the most resourceful survivalists.",
     "es-ES": "El hielo del invierno no echará atrás a los supervivientes más ingeniosos.",
     "es-MX": "El hielo del invierno no puede disuadir a los supervivientes más ingeniosos.",
     "fi-FI": "Talven jää ei kykene pidättelemään neuvokkaimpia selviytyjiä.",

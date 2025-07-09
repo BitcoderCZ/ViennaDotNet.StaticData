@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 25,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Uncommon",
     "Id": "5fdf82c2-5deb-8437-b76c-494b00fb9066",
+    "Cost": 25,
     "Size": "Small",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Uncommon",
+    "Version": "1.0.0"
   },
   "Title": "Highland Grazing",
   "Description": "Wooly Cows are a special breed, enjoying colder temperatures and plenty of clean, fresh mountain air.",
@@ -40,6 +40,7 @@
     "de-DE": "Almgrasen",
     "el-GR": "Βοσκή στα Ορεινά",
     "en-GB": "Highland Grazing",
+    "en-US": "Highland Grazing",
     "es-ES": "Pastoreo en las Tierras Altas",
     "es-MX": "Pastando en las tierras altas",
     "fi-FI": "Ylämaan laiduntamista",
@@ -70,6 +71,7 @@
     "de-DE": "Zottelkühe sind eine besondere Rasse, die sich bei kalten Temperaturen und in der frischen, klaren Bergluft besonders wohlfühlt.",
     "el-GR": "Οι μαλλιαρές αγελάδες είναι ένα ξεχωριστό είδος. Λατρεύουν τις ψυχρές θερμοκρασίες και τον άφθονο, καθαρό και φρέσκο αέρα του βουνού.",
     "en-GB": "Wooly Cows are a special breed, enjoying colder temperatures and plenty of clean, fresh mountain air.",
+    "en-US": "Wooly Cows are a special breed, enjoying colder temperatures and plenty of clean, fresh mountain air.",
     "es-ES": "Las vacas lanudas son una raza de vaca especial, a la que le encantan las temperaturas frías y el aire limpio y fresco de la montaña.",
     "es-MX": "Las vacas lanudas son una raza especial a la que le gusta el frío y el aire fresco de la montaña.",
     "fi-FI": "Villalehmät ovat erikoisrotu, joka nauttii alhaisista lämpötiloista ja suurista annoksista puhdasta, raikasta vuoristoilmaa.",

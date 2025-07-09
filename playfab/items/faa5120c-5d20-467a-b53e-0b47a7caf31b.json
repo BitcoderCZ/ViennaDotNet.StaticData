@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.1",
-    "Rarity": "Rare",
     "Id": "60619d6a-5168-d71f-f20b-c366c93c7f04",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.1.1"
   },
   "Title": "Sand Sanctuary",
   "Description": "At night the desert sands cool, but your digs in the dunes are cool all the time! Just mind the flowers and wildlife while walking.",
@@ -39,6 +39,7 @@
     "de-DE": "Sand-Refugium",
     "el-GR": "Το Άδυτο της Άμμου",
     "en-GB": "Sand Sanctuary",
+    "en-US": "Sand Sanctuary",
     "es-ES": "Santuario de arena",
     "es-MX": "Santuario de arena",
     "fi-FI": "Hiekkapyhäkkö",
@@ -69,6 +70,7 @@
     "de-DE": "Der Wüstensand ist nur nachts kalt, aber deine Ausgrabungen in den Dünen sind immer total cool! Passe nur auf die Blumen und Tiere auf, wenn du durch die Gegend spazierst.",
     "el-GR": "Τη νύχτα, η άμμος της ερήμου σε παγώνει, αλλά οι ανασκαφές σου στους αμμόλοφους συνεχίζουν ακάθεκτες! Έχε τον νου σου, μόνο, στα λουλούδια και την άγρια ζωή καθώς περπατάς.",
     "en-GB": "At night the desert sands cool, but your digs in the dunes are cool all the time! Just mind the flowers and wildlife while walking.",
+    "en-US": "At night the desert sands cool, but your digs in the dunes are cool all the time! Just mind the flowers and wildlife while walking.",
     "es-ES": "Por la noche, la arena del desierto está fría, ¡pero eso a ti no te impide seguir cavando por las dunas! Eso sí, ten cuidado con la fauna y la flora mientras caminas.",
     "es-MX": "La arena del desierto se pone fría durante la noche, ¡pero tu casa en las dunas siempre es muy cálida! Solo ten cuidado con las flores y la vida salvaje mientras caminas.",
     "fi-FI": "Aavikon hiekat viilenevät öisin, mutta sinun touhusi dyyneillä ovat aina viileitä! Varo vain kukkia ja villieläimiä.",

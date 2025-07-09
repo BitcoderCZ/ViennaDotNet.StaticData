@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 2,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "1b527574-8260-42f4-bd34-49d2cad6b91f",
-    "Amount": 1
+    "Cost": 2,
+    "Amount": 1,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Mining Boost I",
   "Description": "Mining speed increased for a short time. Nice!",
@@ -39,6 +39,7 @@
     "de-DE": "Bergbau-Boost I",
     "el-GR": "Ενίσχυση εξόρυξης I",
     "en-GB": "Mining Boost I",
+    "en-US": "Mining Boost I",
     "es-ES": "Potenciador de extracción I",
     "es-MX": "Aumento de velocidad de minería I",
     "fi-FI": "Louhimistehostus I",
@@ -69,6 +70,7 @@
     "de-DE": "Die Bergbaugeschwindigkeit wird für kurze Zeit erhöht. Schön!",
     "el-GR": "Η ταχύτητα εξόρυξης αυξάνεται για σύντομο χρονικό διάστημα. Υπέροχα!",
     "en-GB": "Mining speed increased for a short time. Nice!",
+    "en-US": "Mining speed increased for a short time. Nice!",
     "es-ES": "Velocidad de extracción aumentada durante un momento. ¡Qué bien!",
     "es-MX": "La velocidad de extracción aumenta por poco tiempo. ¡Qué bueno!",
     "fi-FI": "Louhimisnopeus kasvaa lyhyeksi aikaa. Ei paha!",

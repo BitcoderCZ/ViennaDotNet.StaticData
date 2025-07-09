@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 125,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Common",
     "Id": "ca3ecdc1-8188-a933-0628-c5e6afd7ab71",
+    "Cost": 125,
     "Size": "Large",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.0.0"
   },
   "Title": "Endless Desert",
   "Description": "So much sand! Walk the dunes and admire the vastness of it all.",
@@ -39,6 +39,7 @@
     "de-DE": "Unendliche Wüste",
     "el-GR": "Ατελείωτη Έρημος",
     "en-GB": "Endless Desert",
+    "en-US": "Endless Desert",
     "es-ES": "Desierto sin fin",
     "es-MX": "Desierto sin fin",
     "fi-FI": "Loputon autiomaa",
@@ -69,6 +70,7 @@
     "de-DE": "So viel Sand! Kämpfe dich durch die Dünen und bewundere die große Weite.",
     "el-GR": "Τόση πολλή άμμος! Περπάτησε στις αμμοθίνες και θαύμασε την αχανή έκταση.",
     "en-GB": "So much sand! Walk the dunes and admire the vastness of it all.",
+    "en-US": "So much sand! Walk the dunes and admire the vastness of it all.",
     "es-ES": "¡Cuánta arena! Camina por las dunas y admira la inmensidad de todo.",
     "es-MX": "¡Cuánta arena! Camina por las dunas y contempla la grandiosidad del paisaje.",
     "fi-FI": "Mikä määrä hiekkaa! Käyskentele dyyneillä ja ihmettele kaiken äärettömyyttä.",

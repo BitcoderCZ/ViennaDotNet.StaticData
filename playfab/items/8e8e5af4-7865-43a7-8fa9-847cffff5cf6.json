@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 219,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Epic",
     "Id": "054e55be-18a0-b881-d7fa-a60cf791477a",
+    "Cost": 219,
     "Size": "Large",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Epic",
+    "Version": "1.0.0"
   },
   "Title": "Gritty Grandeur",
   "Description": "Live life in sandy luxury! Bask in the sunlight and shelter in the shade.",
@@ -40,6 +40,7 @@
     "de-DE": "Sandige Pracht",
     "el-GR": "Αμμώδες Μεγαλείο",
     "en-GB": "Gritty Grandeur",
+    "en-US": "Gritty Grandeur",
     "es-ES": "Grandeza arenosa",
     "es-MX": "Grandiosidad arenosa",
     "fi-FI": "Pienestä suurenmoista",
@@ -70,6 +71,7 @@
     "de-DE": "Lebe dein Leben in sandigem Luxus! Bade im Sonnenlicht und kühle dich im Schatten ab.",
     "el-GR": "Ζήσε τη ζωή με πολυτέλεια στην άμμο! Απόλαυσε το φως του ήλιου και βρες καταφύγιο στη σκιά.",
     "en-GB": "Live life in sandy luxury! Bask in the sunlight and shelter in the shade.",
+    "en-US": "Live life in sandy luxury! Bask in the sunlight and shelter in the shade.",
     "es-ES": "¡Goza de una vida de lujo rodeado de arena! Disfruta de la luz del sol y refúgiate en la sombra.",
     "es-MX": "¡Vive una vida de lujo en la arena! Toma el sol y relájate en la sombra.",
     "fi-FI": "Elä elämää hiekkaisessa ylellisyydessä! Nauti auringonpaisteesta ja käy varjossa viilentymässä.",

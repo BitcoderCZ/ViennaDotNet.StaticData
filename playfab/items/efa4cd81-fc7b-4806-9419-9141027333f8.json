@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 125,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Common",
     "Id": "aab8c604-1285-a4a0-16c9-c6e4c762fad0",
+    "Cost": 125,
     "Size": "Large",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.0.0"
   },
   "Title": "Giant Jungle",
   "Description": "What secrets hide in the trees? None. Maybe.",
@@ -40,6 +40,7 @@
     "de-DE": "Riesiger Dschungel",
     "el-GR": "Γιγάντια Ζούγκλα",
     "en-GB": "Giant Jungle",
+    "en-US": "Giant Jungle",
     "es-ES": "Jungla gigante",
     "es-MX": "Jungla gigante",
     "fi-FI": "Jättiviidakko",
@@ -70,6 +71,7 @@
     "de-DE": "Welche Geheimnisse verbergen sich hinter diesen Bäumen? Nichts. Vielleicht.",
     "el-GR": "Ποια μυστικά κρύβονται στα δέντρα; Κανένα. Ίσως.",
     "en-GB": "What secrets hide in the trees? None. Maybe.",
+    "en-US": "What secrets hide in the trees? None. Maybe.",
     "es-ES": "¿Qué secretos se esconden en los árboles? Pues ninguno. Quizás.",
     "es-MX": "¿Qué secretos se ocultan en los árboles? Ninguno. Tal vez.",
     "fi-FI": "Mitä salaisuuksia puut mahtavatkaan kätkeä? Eivät mitään. Ehkä.",

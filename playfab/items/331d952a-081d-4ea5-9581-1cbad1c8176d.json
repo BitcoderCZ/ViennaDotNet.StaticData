@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.0",
-    "Rarity": "Rare",
     "Id": "dc5c6e88-cacb-b709-c046-eedd00feddd5",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.1.0"
   },
   "Title": "Highland House",
   "Description": "Rumor has it that a witch once lived here. Perhaps this Highland House is cursed. Steer clear of the sheep!",
@@ -42,6 +42,7 @@
     "de-DE": "Hochlandhaus",
     "el-GR": "Ορεινό σπίτι",
     "en-GB": "Highland House",
+    "en-US": "Highland House",
     "es-ES": "Casa de las Tierras Altas",
     "es-MX": "Casa de las tierras altas",
     "fi-FI": "Ylämaan talo",
@@ -72,6 +73,7 @@
     "de-DE": "Gerüchten zufolge lebte hier einst eine Hexe. Vielleicht ist dieses Hochlandhäuschen verflucht. Geh den Schafen aus dem Weg!",
     "el-GR": "Οι φήμες λένε ότι μια μάγισσα ζούσε κάποτε εδώ. Ίσως αυτό το Ορεινό Σπίτι να είναι καταραμένο. Μείνε μακριά από τα πρόβατα!",
     "en-GB": "Rumour has it that a witch once lived here. Perhaps this Highland House is cursed. Steer clear of the sheep!",
+    "en-US": "Rumor has it that a witch once lived here. Perhaps this Highland House is cursed. Steer clear of the sheep!",
     "es-ES": "Se rumorea que aquí vivió una bruja hace tiempo. Quizás esta casa de las Tierras Altas esté maldita. ¡No te acerques a las ovejas!",
     "es-MX": "Se dice que aquí vivía una bruja. Es posible que esta casa de las tierras altas tenga una maldición. ¡Mantente lejos de las ovejas!",
     "fi-FI": "Tarinat kertovat, että täällä asui kerran noita. Ehkä tämä Ylämaan talo on kirottu. Pysy kaukana lampaista!",

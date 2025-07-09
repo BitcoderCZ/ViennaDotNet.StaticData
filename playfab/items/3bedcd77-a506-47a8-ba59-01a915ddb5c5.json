@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 25,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "924d1428-7427-48e2-b0ae-5a3eeeba3d9c",
-    "Amount": 3
+    "Cost": 25,
+    "Amount": 3,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Attack Boost III",
   "Description": "Feel the power! Attack damage is increased for a short while.",
@@ -39,6 +39,7 @@
     "de-DE": "Angriffsboost III",
     "el-GR": "Ενίσχυση επίθεσης III",
     "en-GB": "Attack Boost III",
+    "en-US": "Attack Boost III",
     "es-ES": "Potenciador de ataque III",
     "es-MX": "Aumento de ataque III",
     "fi-FI": "Hyökkäystehostus III",
@@ -69,6 +70,7 @@
     "de-DE": "Fühle dich richtig stark! Der Angriffsschaden wird für kurze Zeit erhöht.",
     "el-GR": "Νιώσε τη δύναμη! Η ζημιά επίθεσης έχει αυξηθεί για σύντομο χρονικό διάστημα.",
     "en-GB": "Feel the power! Attack damage is increased for a short while.",
+    "en-US": "Feel the power! Attack damage is increased for a short while.",
     "es-ES": "¡Siente el poder! El daño de ataque aumenta durante un momento.",
     "es-MX": "¡Siente el poder! El daño de ataque aumentó por un tiempo breve.",
     "fi-FI": "Tunne mahti! Iskun vahinko suurenee lyhyeksi aikaa.",

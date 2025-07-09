@@ -1,0 +1,67 @@
+{
+    "TabId": "buildplate",
+    "TabTitle": "editorialtool.earth.Buildplates",
+    "TabIcon": "textures/ui/icons/pixel_icons/buildplate",
+    "ScreenLayoutQueries": [
+        {
+            "ColumnType": "Rectangle",
+            "Queries": [
+                {
+                    "ProductIds":[
+                        "c095d219-d568-408e-ac2f-b432be3559a1"
+                    ],
+                    "QueryContentTypes":[
+                        "InventoryItemOffer"
+                    ],
+                    "TopCount":25
+                }
+            ],
+            "ComponentId":"58b67dbf-49dc-4e6d-2b0a-b6da2554f6e8"
+        },
+        {
+            "ColumnType": "Square",
+            "Queries": [
+                {
+                    "ProductIds":[
+                        "a3e4b8b2-88cb-4d26-a414-ce2c6e61c389",
+                        "83cbec6b-749c-472e-a93b-0003e3aa638b",
+                        "85bdb91e-d2e0-4fc2-8269-d171ac0ca4ac",
+                        "716c33f5-f34f-4a1a-8e95-446b9bfc9127",
+                        "937fe1d9-7dff-4112-8c43-943b3e86065a",
+                        "331d952a-081d-4ea5-9581-1cbad1c8176d",
+                        "41cddd77-390c-4bea-881b-7bc97be8967b",
+                        "717c4f02-56e5-4743-a074-44bcdd461db0",
+                        "6643edae-3d4a-4932-bae2-cc47317a1041",
+                        "30055134-bf86-44fe-915e-e096caae2de1",
+                        "dcbc054f-51c1-4d95-96f3-aaa0a2d0d7ff",
+                        "faa5120c-5d20-467a-b53e-0b47a7caf31b",
+                        "af54c6cb-34ac-44e3-ada4-fffd4c580c1e",
+                        "8e8e5af4-7865-43a7-8fa9-847cffff5cf6",
+                        "3c14f929-4f9d-4f94-b5ce-abb22b80e5c6",
+                        "1102b106-9da4-4e82-8fe9-828d617d323f",
+                        "efa4cd81-fc7b-4806-9419-9141027333f8",
+                        "4e42e674-e337-43d0-9587-b7ac947103ff",
+                        "7fd89680-7c9b-4adc-92cf-3e26a2dd71cb",
+                        "6078f5c8-81cf-473b-8ebb-0db0a6edadf8",
+                        "8aaa1577-5a4d-409b-842f-73ae13a05f78",
+                        "998b5e8f-7271-4de6-949f-eda15c7100d7",
+                        "c4a1cce4-c4ef-4f99-a210-071e2e30f154",
+                        "b9272a8c-603c-4188-a75b-e7838bbab567"
+                    ],
+                    "QueryContentTypes":[
+                        "Durable",
+                        "Collection",
+                        "Bundle",
+                        "Persona",
+                        "Genoa",
+                        "BuildplateOffer",
+                        "RubyOffer",
+                        "InventoryItemOffer"
+                    ],
+                    "TopCount":25
+                }
+            ],
+            "ComponentId":"81ef2b04-b29d-45f5-2d7d-19aa74979ea8"
+        }
+    ]
+}

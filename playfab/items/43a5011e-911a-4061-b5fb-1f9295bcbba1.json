@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 2,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "5d788e04-8c5e-495f-81d1-69caa4001dbc",
-    "Amount": 1
+    "Cost": 2,
+    "Amount": 1,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Mob XP Boost I",
   "Description": "Collecting mobs from the map has never been more fun. XP galore!",
@@ -39,6 +39,7 @@
     "de-DE": "Kreaturen-EP-Boost I",
     "el-GR": "Ενίσχυση πόντων εμπειρίας από πλάσματα I",
     "en-GB": "Mob XP Boost I",
+    "en-US": "Mob XP Boost I",
     "es-ES": "Potenciador de EXP de criaturas I",
     "es-MX": "Mejora de EXP de criatura I",
     "fi-FI": "Olioiden XP-tehostus I",
@@ -69,6 +70,7 @@
     "de-DE": "Kreaturen auf der Karte sammeln war noch nie so spaßig. EP bis zum Umfallen!",
     "el-GR": "Η συλλογή πλασμάτων από τον χάρτη ποτέ δεν ήταν πιο διασκεδαστική. Πληθώρα πόντων εμπειρίας!",
     "en-GB": "Collecting mobs from the map has never been more fun. XP galore!",
+    "en-US": "Collecting mobs from the map has never been more fun. XP galore!",
     "es-ES": "Recoger criaturas del mapa nunca ha sido tan divertido. ¡EXP a gogó!",
     "es-MX": "Recolectar criaturas del mapa es más divertido que nunca. ¡EXP a montones!",
     "fi-FI": "Olioiden kerääminen kartalta ei ole koskaan ollut hauskempaa. XP:tä kehiin!",

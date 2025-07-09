@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 56,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.1",
-    "Rarity": "Common",
     "Id": "6a6d9322-5d54-acea-1567-d0ced4591f2c",
+    "Cost": 56,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.0.1"
   },
   "Title": "Tiny waterfall ahoy!",
   "Description": "Water, grass, and flowers are perfect for a pastoral scene.",
@@ -42,6 +42,7 @@
     "de-DE": "Mini-Wasserfall ahoi!",
     "el-GR": "Μικρούλης καταρράκτης!",
     "en-GB": "Tiny waterfall ahoy!",
+    "en-US": "Tiny waterfall ahoy!",
     "es-ES": "¡Pequeña cascada a la vista!",
     "es-MX": "¡Cascadita!",
     "fi-FI": "Pieni vesiputous edessä!",
@@ -72,6 +73,7 @@
     "de-DE": "Wasser, Gras und Blumen sorgen hier für ein unglaublich idyllisches Gefühl.",
     "el-GR": "Νερό, γρασίδι και λουλούδια, μια τέλεια βουκολική σκηνή.",
     "en-GB": "Water, grass and flowers are perfect for a pastoral scene.",
+    "en-US": "Water, grass, and flowers are perfect for a pastoral scene.",
     "es-ES": "El agua, la hierba y las flores son perfectos para una escena pastoral.",
     "es-MX": "El agua, el pasto y las flores son ideales para una escena de campo.",
     "fi-FI": "Vesi, ruoho ja kukat sopivat täydellisesti paimenmaisemaan.",

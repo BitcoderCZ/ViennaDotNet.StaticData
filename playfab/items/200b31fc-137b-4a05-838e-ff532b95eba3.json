@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "15f4eedb-b14c-4aa0-8f54-4b3ecc8aa0d5",
-    "Amount": 5
+    "Cost": 19,
+    "Amount": 5,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Adventure XP Boost II",
   "Description": "Gain more XP from Adventures. Wondrous wonders!",
@@ -39,6 +39,7 @@
     "de-DE": "Abenteuer-EP-Boost II",
     "el-GR": "Ενίσχυση πόντων εμπειρίας από περιπέτειες II",
     "en-GB": "Adventure XP Boost II",
+    "en-US": "Adventure XP Boost II",
     "es-ES": "Potenciador de EXP de aventuras II",
     "es-MX": "Mejora de EXP de aventura II",
     "fi-FI": "Seikkailun XP-tehostus II",
@@ -69,6 +70,7 @@
     "de-DE": "Erhalte mehr EP von Abenteuern. Wundersame Wunder!",
     "el-GR": "Κέρδισε περισσότερους πόντους εμπειρίας από περιπέτειες. Θαυμάσιο!",
     "en-GB": "Gain more XP from Adventures. Wondrous wonders!",
+    "en-US": "Gain more XP from Adventures. Wondrous wonders!",
     "es-ES": "Consigue más EXP con las aventuras. ¡Aventuras maravillosas!",
     "es-MX": "Obtén más EXP en las aventuras. ¡Qué maravilla!",
     "fi-FI": "Ansaitse enemmän kokemusta seikkailuista. Ihmeiden ihme!",

@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 219,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Epic",
     "Id": "c5c033c7-1ef4-201a-7e01-ad0bdd37ab7c",
+    "Cost": 219,
     "Size": "Large",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Epic",
+    "Version": "1.0.0"
   },
   "Title": "Heart of the Jungle",
   "Description": "Hidden within the deepest jungle, a mighty structure has been reclaimed by nature. And animals. Which are part of nature.",
@@ -40,6 +40,7 @@
     "de-DE": "Herz des Dschungels",
     "el-GR": "Καρδιά της Ζούγκλας",
     "en-GB": "Heart of the Jungle",
+    "en-US": "Heart of the Jungle",
     "es-ES": "Corazón de la jungla",
     "es-MX": "El corazón de la jungla",
     "fi-FI": "Viidakon sydän",
@@ -70,6 +71,7 @@
     "de-DE": "Verborgen im tiefsten Dschungel hat die Natur ein mächtiges Gebäude zurückerobert. Und die Tiere. Die ja auch ein Teil der Natur sind.",
     "el-GR": "Κρυμμένο μέσα στην πιο βαθιά ζούγκλα, ένα επιβλητικό οικοδόμημα έχει καταληφθεί από τη φύση. Και τα ζώα. Που είναι μέρος της φύσης.",
     "en-GB": "Hidden within the deepest jungle, a mighty structure has been reclaimed by nature. And animals. Which are part of nature.",
+    "en-US": "Hidden within the deepest jungle, a mighty structure has been reclaimed by nature. And animals. Which are part of nature.",
     "es-ES": "Oculta en lo más profundo de la jungla se encuentra una poderosa estructura, pero la naturaleza se ha hecho con ella. Y los animales también. Que son parte de la naturaleza.",
     "es-MX": "En lo más profundo de la jungla, hay una estructura grandiosa invadida por la naturaleza. Y también hay animales. Ellos son parte de la naturaleza.",
     "fi-FI": "Syvällä syvimmässä viidakossa luonto on vallannut takaisin mahtavan luomuksen. Eläimiäkin siitä löytyy. Ne kun ovat osa luontoa.",

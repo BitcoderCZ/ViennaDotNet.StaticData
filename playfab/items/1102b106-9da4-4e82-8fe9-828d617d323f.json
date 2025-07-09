@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.1",
-    "Rarity": "Rare",
     "Id": "4931dd31-4c4a-234f-1af5-869433d15268",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.1.1"
   },
   "Title": "Jungle treehouse",
   "Description": "Stay safe from the wild cats on the jungle floor by building up into the trees.",
@@ -41,6 +41,7 @@
     "de-DE": "Dschungelbaumhaus",
     "el-GR": "Δεντρόσπιτο στη ζούγκλα",
     "en-GB": "Jungle treehouse",
+    "en-US": "Jungle treehouse",
     "es-ES": "Casa en el árbol de la jungla",
     "es-MX": "Casa en la jungla",
     "fi-FI": "Viidakon puumaja",
@@ -71,6 +72,7 @@
     "de-DE": "Bringe dich vor den wilden Katzen in Sicherheit, die auf dem Dschungelboden umherstreifen, und errichte Gebäude hoch oben in den Bäumen.",
     "el-GR": "Μείνε ασφαλής από τις αγριόγατες στο έδαφος της ζούγκλας χτίζοντας ψηλά στα δέντρα.",
     "en-GB": "Stay safe from the wild cats on the jungle floor by building up into the trees.",
+    "en-US": "Stay safe from the wild cats on the jungle floor by building up into the trees.",
     "es-ES": "Construye en los árboles para estar a salvo de los felinos salvajes que merodean por el suelo de la jungla.",
     "es-MX": "Protégete de los felinos salvajes que viven en el suelo de la jungla al construir estructuras en los árboles.",
     "fi-FI": "Pysy turvassa viidakon tiheikön villikissoilta rakentamalla puihin.",

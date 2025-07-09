@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "c4231eb5-8fc0-4ad7-ad18-ecfcb0734049",
-    "Amount": 5
+    "Cost": 19,
+    "Amount": 5,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Attack Boost II",
   "Description": "Feel the power! Attack damage is increased for a short while.",
@@ -39,6 +39,7 @@
     "de-DE": "Angriffsboost II",
     "el-GR": "Ενίσχυση επίθεσης II",
     "en-GB": "Attack Boost II",
+    "en-US": "Attack Boost II",
     "es-ES": "Potenciador de ataque II",
     "es-MX": "Aumento de ataque II",
     "fi-FI": "Hyökkäystehostus II",
@@ -69,6 +70,7 @@
     "de-DE": "Fühle dich richtig stark! Der Angriffsschaden wird für kurze Zeit erhöht.",
     "el-GR": "Νιώσε τη δύναμη! Η ζημιά επίθεσης έχει αυξηθεί για σύντομο χρονικό διάστημα.",
     "en-GB": "Feel the power! Attack damage is increased for a short while.",
+    "en-US": "Feel the power! Attack damage is increased for a short while.",
     "es-ES": "¡Siente el poder! El daño de ataque aumenta durante un momento.",
     "es-MX": "¡Siente el poder! El daño de ataque aumentó por un tiempo breve.",
     "fi-FI": "Tunne mahti! Iskun vahinko suurenee lyhyeksi aikaa.",

@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 2,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "29d26deb-3f14-410f-af59-a492a21406bb",
-    "Amount": 1
+    "Cost": 2,
+    "Amount": 1,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Health Boost I",
   "Description": "Such vitality! Max health increased temporarily.",
@@ -39,6 +39,7 @@
     "de-DE": "Gesundheitsboost I",
     "el-GR": "Ενίσχυση υγείας I",
     "en-GB": "Health Boost I",
+    "en-US": "Health Boost I",
     "es-ES": "Potenciador de salud I",
     "es-MX": "Aumento de salud I",
     "fi-FI": "Kuntotehostus I",
@@ -69,6 +70,7 @@
     "de-DE": "Wie lebhaft! Die Maximale Gesundheit wird kurzzeitig erhöht.",
     "el-GR": "Τόση ζωντάνια! Η μέγιστη υγεία αυξάνεται προσωρινά.",
     "en-GB": "Such vitality! Max health increased temporarily.",
+    "en-US": "Such vitality! Max health increased temporarily.",
     "es-ES": "¡Qué vitalidad! La salud máxima ha aumentado temporalmente.",
     "es-MX": "¡Cuánta vitalidad! La salud máxima aumentó temporalmente.",
     "fi-FI": "Mikä puhti! Maksimielinvoima lisääntyy väliaikaisesti.",

@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.1",
-    "Rarity": "Common",
     "Id": "2f0c88fa-73fc-2567-f870-0f61283294ef",
+    "Cost": 19,
     "Size": "Small",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.0.1"
   },
   "Title": "Dark and Shroomy",
   "Description": "Large mushrooms provide shelter and food. Seems like a good place to stay the night.",
@@ -41,6 +41,7 @@
     "de-DE": "Düsterpilzig",
     "el-GR": "Σκοτάδι και μανιτάρια",
     "en-GB": "Dark and Shroomy",
+    "en-US": "Dark and Shroomy",
     "es-ES": "Oscuro y mohoso",
     "es-MX": "Oscuro y mohoso",
     "fi-FI": "Pimeä ja sienekäs",
@@ -71,6 +72,7 @@
     "de-DE": "Große Pilze bieten dir Unterschlupf und Essen. Sieht nach einem guten Ort aus, um die Nacht zu verbringen.",
     "el-GR": "Τα τεράστια μανιτάρια παρέχουν καταφύγιο και τροφή. Φαίνεται καλό μέρος να περάσεις τη νύχτα.",
     "en-GB": "Large mushrooms provide shelter and food. Seems like a good place to stay the night.",
+    "en-US": "Large mushrooms provide shelter and food. Seems like a good place to stay the night.",
     "es-ES": "Los champiñones grandes proporcionan refugio y comida. Parece un buen lugar para pasar la noche.",
     "es-MX": "Los hongos grandes proporcionan refugio y comida. Parece un buen lugar para pasar la noche.",
     "fi-FI": "Suuret sienet tarjoavat suojaa ja ruokaa. Vaikuttaa hyvältä yöpymispaikalta.",

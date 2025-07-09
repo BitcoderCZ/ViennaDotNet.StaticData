@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 2,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "50539b69-3d2e-40c8-bef1-490d3286b9db",
-    "Amount": 1
+    "Cost": 2,
+    "Amount": 1,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Hoarding Boost I",
   "Description": "Keep your backpack contents even if you die. So amazing!",
@@ -39,6 +39,7 @@
     "de-DE": "Anhäufungs-Boost I",
     "el-GR": "Ενίσχυση συγκέντρωσης I",
     "en-GB": "Hoarding Boost I",
+    "en-US": "Hoarding Boost I",
     "es-ES": "Potenciador de acumulación I",
     "es-MX": "Aumento de acumulación I",
     "fi-FI": "Hamstraustehostus I",
@@ -69,6 +70,7 @@
     "de-DE": "Behalte deinen Rucksackinhalt, auch wenn du stirbst. Großartig!",
     "el-GR": "Κράτησε το περιεχόμενο του σακιδίου σου ακόμα κι αν πεθάνεις. Φανταστικό!",
     "en-GB": "Keep your backpack contents even if you die. So amazing!",
+    "en-US": "Keep your backpack contents even if you die. So amazing!",
     "es-ES": "Mantienes el contenido de tu mochila incluso si mueres. ¡Increíble!",
     "es-MX": "Conserva los contenidos de tu mochila aunque mueras. ¡Es fantástico!",
     "fi-FI": "Reppusi sisältö säilyy, vaikka kuolisit. Todella upeeta!",

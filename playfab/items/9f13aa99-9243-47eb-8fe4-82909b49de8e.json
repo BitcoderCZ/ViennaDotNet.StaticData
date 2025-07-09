@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "89726b8c-2716-44ea-b07c-ac1c319d3e18",
-    "Amount": 5
+    "Cost": 19,
+    "Amount": 5,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Radius Boost II",
   "Description": "Player interaction radius on the map is increased. Super tap! ",
@@ -39,6 +39,7 @@
     "de-DE": "Radius-Boost II",
     "el-GR": "Ενίσχυση ακτίνας αλληλεπίδρασης II",
     "en-GB": "Radius Boost II",
+    "en-US": "Radius Boost II",
     "es-ES": "Potenciador de radio II",
     "es-MX": "Aumento de radio II",
     "fi-FI": "Sädetehostus II",
@@ -69,6 +70,7 @@
     "de-DE": "Der Spieler-Interaktionsradius auf der Karte wurde erhöht. Genial!",
     "el-GR": "Η ακτίνα αλληλεπίδρασης παίκτη στον χάρτη αυξάνεται. Εκμηδένισε την απόσταση! ",
     "en-GB": "Player interaction radius on the map is increased. Super tap!",
+    "en-US": "Player interaction radius on the map is increased. Super tap! ",
     "es-ES": "Ha aumentado el radio de interacción del jugador en el mapa. ¡Genial! ",
     "es-MX": "Aumenta el radio de interacción del jugador en el mapa. ¡Supertoques!",
     "fi-FI": "Pelaajan vuorovaikutussäde kartalla suurenee. Supernapautus!",

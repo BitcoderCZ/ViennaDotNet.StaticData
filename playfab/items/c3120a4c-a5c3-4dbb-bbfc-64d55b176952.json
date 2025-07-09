@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 25,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "bab05ee3-b06f-411b-a6a4-a112f9acf72f",
-    "Amount": 3
+    "Cost": 25,
+    "Amount": 3,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Defense Boost III",
   "Description": "Take less damage overall. Sweet!",
@@ -39,6 +39,7 @@
     "de-DE": "Verteidigungs-Boost III",
     "el-GR": "Ενίσχυση άμυνας III",
     "en-GB": "Defence Boost III",
+    "en-US": "Defense Boost III",
     "es-ES": "Potenciador de defensa III",
     "es-MX": "Aumento de defensa III",
     "fi-FI": "Puolustuksentehostus III",
@@ -69,6 +70,7 @@
     "de-DE": "Insgesamt erleidest du weniger Schaden. Toll!",
     "el-GR": "Η συνολική ζημιά που δέχεσαι είναι λιγότερη. Τέλεια!",
     "en-GB": "Take less damage overall. Sweet!",
+    "en-US": "Take less damage overall. Sweet!",
     "es-ES": "Recibes menos daño en general. ¡Mola!",
     "es-MX": "Recibe menos daño general. ¡Qué bien!",
     "fi-FI": "Kärsit yleisesti vähemmän vahinkoa. Päheetä!",

@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 25,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "97039510-767c-43a9-8a15-b1034d8011d4",
-    "Amount": 3
+    "Cost": 25,
+    "Amount": 3,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Hoarding Boost III",
   "Description": "Keep your backpack contents, XP and hotbar even if you die. So amazing!",
@@ -39,6 +39,7 @@
     "de-DE": "Anhäufungs-Boost III",
     "el-GR": "Ενίσχυση συγκέντρωσης III",
     "en-GB": "Hoarding Boost III",
+    "en-US": "Hoarding Boost III",
     "es-ES": "Potenciador de acumulación III",
     "es-MX": "Aumento de acumulación III",
     "fi-FI": "Hamstraustehostus III",
@@ -69,6 +70,7 @@
     "de-DE": "Behalte deinen Rucksackinhalt, deine EP und deine Schnellzugriffsleiste, auch wenn du stirbst. Großartig!",
     "el-GR": "Κράτησε το περιεχόμενο του σακιδίου σου, τους πόντους εμπειρίας και το hotbar ακόμα κι αν πεθάνεις. Φανταστικό!",
     "en-GB": "Keep your backpack contents, XP and hotbar even if you die. So amazing!",
+    "en-US": "Keep your backpack contents, XP and hotbar even if you die. So amazing!",
     "es-ES": "Mantienes el contenido de tu mochila, tu EXP y tu barra activa incluso si mueres. ¡Increíble!",
     "es-MX": "Conserva el contenido de tu mochila, tu EXP y tu barra visible aunque mueras. ¡Es fantástico!",
     "fi-FI": "Reppusi sisältö, kokemuspisteesi ja pikapalkkisi säilyvät, vaikka kuolisit. Todella upeeta!",

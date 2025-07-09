@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 125,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.0.0",
-    "Rarity": "Common",
     "Id": "ab250be8-1a4c-2ca3-8ea6-c3002a158ef6",
+    "Cost": 125,
     "Size": "Large",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Common",
+    "Version": "1.0.0"
   },
   "Title": "Starting Small",
   "Description": "Humble beginnings often lead to bigger things. Also there are pigs.",
@@ -44,6 +44,7 @@
     "de-DE": "Klein anfangen",
     "el-GR": "Ταπεινό Ξεκίνημα",
     "en-GB": "Starting Small",
+    "en-US": "Starting Small",
     "es-ES": "Empezando con poco",
     "es-MX": "Empezando con poco",
     "fi-FI": "Pieni alunpoikanen",
@@ -74,6 +75,7 @@
     "de-DE": "Kleine Anfänge führen oft zu größeren Dingen. Und es gibt Schweine.",
     "el-GR": "Ένα ταπεινό ξεκίνημα συχνά οδηγεί σε σπουδαία πράγματα. Επίσης, έχουμε γουρούνια.",
     "en-GB": "Humble beginnings often lead to bigger things. Also there are pigs.",
+    "en-US": "Humble beginnings often lead to bigger things. Also there are pigs.",
     "es-ES": "Los inicios humildes suelen conducir a grandes cosas. Y también hay cerdos.",
     "es-MX": "Empieza con poco para lograr cosas cada vez más grandes. Y también hay cerdos.",
     "fi-FI": "Vaatimattomat lähtökohdat johtavat usein suuriin asioihin. Täällä on myös possuja.",

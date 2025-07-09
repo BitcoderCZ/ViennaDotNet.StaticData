@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.0",
-    "Rarity": "Rare",
     "Id": "2ea12a36-8a2c-0601-1b59-a590c27510e8",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.1.0"
   },
   "Title": "Toadstool Terrace",
   "Description": "Anywhere can be a home if you try hard enough.",
@@ -35,6 +35,10 @@
       "Amount": 1
     }
   ],
-  "TitleTranslations": {},
-  "DescriptionTranslations": {}
+  "TitleTranslations": {
+    "en-US": "Toadstool Terrace"
+  },
+  "DescriptionTranslations": {
+    "en-US": "Anywhere can be a home if you try hard enough."
+  }
 }

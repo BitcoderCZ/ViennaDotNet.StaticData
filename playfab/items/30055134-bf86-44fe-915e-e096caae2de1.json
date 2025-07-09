@@ -1,13 +1,13 @@
 {
   "Purchasable": true,
-  "Cost": 94,
   "Data": {
     "Type": "Buildplate",
-    "Version": "1.1.1",
-    "Rarity": "Rare",
     "Id": "87b7ac8f-820c-7d29-27ee-a7ba888f385c",
+    "Cost": 94,
     "Size": "Medium",
-    "UnlockLevel": 1
+    "UnlockLevel": 1,
+    "Rarity": "Rare",
+    "Version": "1.1.1"
   },
   "Title": "Roadside inn",
   "Description": "Every good adventure starts at a hearth and table. Where are we off to today?",
@@ -43,6 +43,7 @@
     "de-DE": "Gasthaus am Wegesrand",
     "el-GR": "Πανδοχείο",
     "en-GB": "Roadside inn",
+    "en-US": "Roadside inn",
     "es-ES": "Taberna",
     "es-MX": "Taberna",
     "fi-FI": "Tienvieren majatalo",
@@ -73,6 +74,7 @@
     "de-DE": "Jedes gute Abenteuer beginnt an einem Lagerfeuer oder Tisch. Wohin verschlägt es dich wohl heute?",
     "el-GR": "Κάθε καλή περιπέτεια ξεκινά σε ένα τζάκι και ένα τραπέζι. Πού θα πάμε σήμερα;",
     "en-GB": "Every good adventure starts at a hearth and table. Where are we off to today?",
+    "en-US": "Every good adventure starts at a hearth and table. Where are we off to today?",
     "es-ES": "Toda aventura que se precie empieza en una mesa y al lado de un hogar. ¿Adónde vamos hoy?",
     "es-MX": "Toda buena aventura comienza en un hogar y una mesa. ¿A dónde vamos hoy?",
     "fi-FI": "Jokainen hyvä seikkailu alkaa tulisijan ja pöydän ääreltä. Minne me tänään lähdemme?",

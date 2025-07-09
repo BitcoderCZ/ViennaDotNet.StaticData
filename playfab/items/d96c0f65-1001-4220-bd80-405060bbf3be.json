@@ -1,12 +1,12 @@
 {
   "Purchasable": true,
-  "Cost": 19,
   "Data": {
     "Type": "InventoryItem",
-    "Version": "1.0.0",
-    "Rarity": "None",
     "Id": "d9bbd707-8a7a-4edb-a85c-f8ec0c78a1f9",
-    "Amount": 5
+    "Cost": 19,
+    "Amount": 5,
+    "Rarity": "None",
+    "Version": "1.0.0"
   },
   "Title": "Keeper Boost II",
   "Description": "Keep your hotbar and your XP even if you die. So amazing! ",
@@ -39,6 +39,7 @@
     "de-DE": "Hüter-Boost II",
     "el-GR": "Ενίσχυση διατήρησης II",
     "en-GB": "Keeper Boost II",
+    "en-US": "Keeper Boost II",
     "es-ES": "Potenciador de guardianes II",
     "es-MX": "Aumento de cuidador II",
     "fi-FI": "Pitotehostus II",
@@ -69,6 +70,7 @@
     "de-DE": "Behalte deine Schnellzugriffsleiste und deine EP, auch wenn du stirbst. Großartig!",
     "el-GR": "Κράτησε το hotbar και τους πόντους εμπειρίας σου ακόμα κι αν πεθάνεις. Φανταστικό! ",
     "en-GB": "Keep your hotbar and your XP even if you die. So amazing! ",
+    "en-US": "Keep your hotbar and your XP even if you die. So amazing! ",
     "es-ES": "Mantienes tu barra activa y tu EXP incluso si mueres. ¡Increíble! ",
     "es-MX": "Conserva tu barra visible y tu EXP aunque mueras. ¡Es fantástico!",
     "fi-FI": "Pikapalkkisi ja kokemuspisteesi säilyvät, vaikka kuolisit. Todella upeeta!",
