@@ -60,7 +60,6 @@
         "recreation_ground": "OPEN_PUBLIC_AREA",
         "village_green": "OPEN_PUBLIC_AREA",
         "railway": "CYCLE_PATH",
-        "residential": "BUILDING",
         "pitch": "ATHLETIC_FIELD"
     },
     "leisure": {
